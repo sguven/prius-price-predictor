@@ -1,0 +1,2849 @@
+#,Years,Price,Model,Mileage,Condition,Usage Type,Owner#,Location
+0,2018,27637,Prius Two FWD,29801,"Accident check
+No issues reported",Personal,2.0,CA
+1,2017,24500,Prius Two FWD,16565,"Accident check
+No issues reported",Personal,1.0,CA
+2,2011,11988,Prius Three,94506,"Accident check
+1Accident reported",Personal,1.0,CA
+3,2015,14199,Prius Two,77651,"Accident check
+No issues reported",Personal,1.0,CA
+4,2010,6990,Prius,141175,"Accident check
+No issues reported",Personal,1.0,HI
+5,2018,20451,Prius Four FWD,58385,"Accident check
+No issues reported",Personal,1.0,CA
+6,2020,27369,Prius XLE FWD,9381,"Accident check
+No issues reported",Personal,1.0,FL
+7,2020,25437,Prius LE FWD,28659,"Accident check
+No issues reported",Personal,1.0,ND
+8,2011,9990,Prius Two,84120,"Accident check
+No issues reported",Personal,2.0,MN
+9,2020,27990,Prius LE FWD,21426,"Accident check
+No issues reported",Personal,1.0,KY
+10,2018,24871,Prius,40522,"Accident check
+No issues reported",Personal,2.0,OR
+11,2015,7900,Prius Persona Series,154957,"Accident check
+1Accident reported",Commercial,3.0,FL
+12,2019,24900,Prius Limited FWD,35966,"Accident check
+No issues reported",Commercial,1.0,PA
+13,2015,14499,Prius Four,110022,"Accident check
+No issues reported",Personal,2.0,OR
+14,2015,9999,Prius Two,156858,"Accident check
+1Accident reported",Personal,2.0,CA
+15,2020,29999,Prius XLE AWD-e,11290,"Accident check
+No issues reported",Personal,1.0,CO
+16,2018,20999,Prius One FWD,55632,"Accident check
+No issues reported",Personal,2.0,CO
+17,2010,5977,Prius,144606,"Accident check
+No issues reported",Personal,3.0,PA
+18,2015,22499,Prius Persona Series,42619,"Accident check
+No issues reported",Personal,1.0,CA
+19,2012,13980,Prius Four,52965,"Accident check
+No issues reported",Personal,2.0,FL
+20,2015,10995,Prius Two,119912,"Accident check
+No issues reported",Commercial,3.0,UT
+21,2019,14750,Prius,132050,"Accident check
+Frame damage reported",Personal,1.0,FL
+22,2013,9995,Prius One,101547,"Accident check
+No issues reported",Personal,2.0,UT
+23,2013,9888,Prius Five,150426,"Accident check
+No issues reported",Personal,2.0,CA
+24,2010,6215,Prius,134139,"Accident check
+1Accident reported",Personal,3.0,TN
+25,2015,14499,Prius Four,102536,"Accident check
+No issues reported",Personal,3.0,CA
+26,2014,12000,Prius Two,109641,"Accident check
+No issues reported",Personal,2.0,TN
+27,2017,14999,Prius Two FWD,124453,"Accident check
+No issues reported",Commercial,3.0,CO
+28,2010,8750,Prius,139874,"Accident check
+No issues reported",Personal,1.0,OR
+29,2010,6450,Prius,144062,"Accident check
+No issues reported",Personal,2.0,TX
+30,2020,27647,Prius LE FWD,25981,"Accident check
+No issues reported",Personal,1.0,OH
+31,2016,18995,Prius,58198,"Accident check
+No issues reported",Personal,1.0,VA
+32,2015,12995,Prius Persona Series,99895,"Accident check
+No issues reported",Personal,2.0,UT
+33,2015,9995,Prius One,150109,"Accident check
+1Accident reported",Personal,1.0,UT
+34,2018,21500,Prius Two FWD,61572,"Accident check
+No issues reported",Commercial,2.0,NM
+35,2017,17999,Prius Two FWD,89279,"Accident check
+No issues reported",Personal,2.0,CA
+36,2010,9800,Prius,122000,"Accident check
+No issues reported",Personal,2.0,CA
+37,2007,5999,Prius,146395,"Accident check
+3Accidents reported",Personal,2.0,CA
+38,2010,7995,Prius,140329,"Accident check
+No issues reported",Commercial,3.0,WA
+39,2020,26990,Prius LE FWD,10462,"Accident check
+No issues reported",Personal,1.0,FL
+40,2008,5750,Prius Touring FWD,130043,"Accident check
+No issues reported",Personal,5.0,CA
+41,2016,17400,Prius Two FWD,92589,"Accident check
+No issues reported",Personal,1.0,CA
+42,2015,12899,Prius Four,127966,"Accident check
+No issues reported",Personal,1.0,CA
+43,2011,4200,Prius One,182154,"Accident check
+No issues reported",Personal,4.0,FL
+44,2017,21400,Prius Four FWD,52406,"Accident check
+No issues reported",Personal,2.0,CA
+45,2017,18994,Prius Two FWD,81812,"Accident check
+No issues reported",Personal,1.0,FL
+46,2013,12900,Prius Four,96777,"Accident check
+No issues reported",Personal,2.0,NV
+47,2010,6995,Prius,139776,"Accident check
+1Accident reported",Personal,3.0,IA
+48,2015,18997,Prius Four,32925,"Accident check
+No issues reported",Personal,2.0,IL
+49,2007,5400,Prius,136987,"Accident check
+1Accident reported",Personal,2.0,NC
+50,2013,12500,Prius Four,95000,"Accident check
+1Accident reported",Personal,3.0,WA
+51,2015,14950,Prius Four,108690,"Accident check
+No issues reported",Personal,2.0,CA
+53,2011,8995,Prius Two,99480,"Accident check
+No issues reported",Personal,2.0,MA
+54,2011,8987,Prius,107585,"Accident check
+No issues reported",Personal,1.0,LA
+55,2019,21999,Prius Limited FWD,117695,"Accident check
+No issues reported",Personal,1.0,CA
+56,2017,18991,Prius Two FWD,73648,"Accident check
+No issues reported",Personal,2.0,CA
+57,2017,17994,Prius Four Touring FWD,105739,"Accident check
+No issues reported",Personal,1.0,OH
+58,2018,23411,Prius Four FWD,52553,"Accident check
+No issues reported",Personal,1.0,FL
+59,2017,16999,Prius Two FWD,108554,"Accident check
+No issues reported",Personal,1.0,CA
+60,2021,28900,Prius 2020 Edition FWD,9700,"Accident check
+No issues reported",Personal,1.0,CA
+61,2010,7300,Prius,127003,"Accident check
+No issues reported",Personal,2.0,FL
+62,2015,19793,Prius Persona Series,58159,"Accident check
+No issues reported",Personal,1.0,WA
+63,2020,25000,Prius L Eco FWD,4717,"Accident check
+No issues reported",Personal,2.0,AZ
+64,2017,25886,Prius Three FWD,7795,"Accident check
+1Accident reported",Personal,1.0,IN
+65,2018,23958,Prius Two FWD,41803,"Accident check
+No issues reported",Personal,1.0,NM
+66,2017,24250,Prius,28485,"Accident check
+No issues reported",Personal,2.0,CA
+67,2016,15495,Prius Two FWD,104549,"Accident check
+No issues reported",Commercial,2.0,PA
+68,2017,21989,Prius Four Touring FWD,53596,"Accident check
+2Accidents reported",Personal,1.0,MS
+69,2015,11999,Prius Three,131788,"Accident check
+No issues reported",Personal,2.0,CA
+70,2013,11995,Prius Two,121132,"Accident check
+No issues reported",Personal,3.0,OR
+71,2006,3500,Prius FWD,201687,"Accident check
+No issues reported",Personal,4.0,OH
+72,2015,17995,Prius Five,73738,"Accident check
+No issues reported",Personal,3.0,CA
+73,2018,24900,Prius One FWD,32725,"Accident check
+No issues reported",Personal,1.0,CA
+74,2014,10999,Prius Two,138951,"Accident check
+2Accidents reported",Personal,2.0,OR
+75,2015,13299,Prius Four,126542,"Accident check
+No issues reported",Personal,2.0,CA
+76,2015,14995,Prius,88458,"Accident check
+No issues reported",Personal,2.0,MT
+77,2015,14995,Prius Four,85773,"Accident check
+1Accident reported",Personal,1.0,CA
+79,2016,20995,Prius Two FWD,40868,"Accident check
+No issues reported",Personal,1.0,NY
+80,2010,12990,Prius Four,62307,"Accident check
+1Accident reported",Personal,2.0,GA
+81,2017,20921,Prius Four FWD,34909,"Accident check
+1Accident reported",Personal,1.0,CA
+82,2015,15995,Prius Persona Series,89335,"Accident check
+No issues reported",Personal,3.0,NV
+83,2019,23997,Prius LE FWD,29825,"Accident check
+1Accident reported",Commercial,2.0,MA
+84,2012,9999,Prius,132301,"Accident check
+No issues reported",Commercial,2.0,CA
+85,2015,10499,Prius Two,165930,"Accident check
+No issues reported",Personal,1.0,CA
+86,2018,22699,Prius Two FWD,24500,"Accident check
+No issues reported",Commercial,1.0,CT
+87,2018,17500,Prius Two FWD,108903,"Accident check
+No issues reported",Personal,2.0,GA
+88,2021,29000,Prius 2020 Edition FWD,7977,"Accident check
+No issues reported",Personal,1.0,OK
+89,2010,7900,Prius Three,144663,"Accident check
+No issues reported",Personal,1.0,VA
+90,2016,18350,Prius Two FWD,85265,"Accident check
+No issues reported",Personal,2.0,CA
+91,2021,33980,Prius XLE AWD-e,4945,"Accident check
+No issues reported",Personal,2.0,WA
+92,2010,9000,Prius,130700,"Accident check
+No issues reported",Commercial,2.0,CA
+93,2019,25999,Prius LE FWD,17560,"Accident check
+No issues reported",Personal,1.0,CA
+94,2007,6900,Prius,97212,"Accident check
+1Accident reported",Personal,2.0,CO
+95,2010,10699,Prius Five,97676,"Accident check
+No issues reported",Personal,2.0,CA
+96,2008,4499,Prius Touring FWD,163535,"Accident check
+1Accident reported",Personal,2.0,CA
+97,2012,10700,Prius,107401,"Accident check
+No issues reported",Personal,2.0,IN
+98,2010,10499,Prius Four,112551,"Accident check
+No issues reported",Personal,2.0,CA
+99,2019,21581,Prius LE FWD,68816,"Accident check
+1Accident reported",Personal,2.0,CA
+101,2017,20997,Prius Two FWD,62357,"Accident check
+No issues reported",Personal,2.0,IN
+102,2018,21197,Prius Two FWD,36725,"Accident check
+1Accident reported",Commercial,2.0,MA
+103,2016,16994,Prius Two FWD,91020,"Accident check
+No issues reported",Personal,1.0,MT
+104,2014,10999,Prius Two,127371,"Accident check
+No issues reported",Personal,2.0,FL
+105,2009,7500,Prius FWD,120000,"Accident check
+No issues reported",Personal,2.0,NM
+106,2021,27900,Prius L Eco FWD,1353,"Accident check
+No issues reported",Personal,1.0,IL
+107,2015,16900,Prius One,57523,"Accident check
+2Accidents reported",Personal,1.0,CT
+108,2007,2998,Prius Touring FWD,235613,"Accident check
+No issues reported",Personal,1.0,TX
+109,2016,18500,Prius Two FWD,69559,"Accident check
+No issues reported",Personal,2.0,PA
+110,2010,4500,Prius,218000,"Accident check
+No issues reported",Personal,2.0,NC
+111,2007,6500,Prius Touring FWD,131940,"Accident check
+No issues reported",Personal,2.0,FL
+112,2010,7988,Prius,137746,"Accident check
+No issues reported",Commercial,1.0,NC
+113,2021,28989,Prius LE FWD,3507,"Accident check
+1Accident reported",Commercial,2.0,CA
+114,2015,17991,Prius Persona Series,69805,"Accident check
+No issues reported",Personal,1.0,OR
+115,2014,9999,Prius Three,150000,"Accident check
+No issues reported",Commercial,5.0,CA
+116,2007,4500,Prius,172139,"Accident check
+No issues reported",Personal,2.0,IL
+117,2011,8885,Prius Two,130297,"Accident check
+No issues reported",Personal,1.0,CA
+118,2018,26398,Prius Four FWD,19131,"Accident check
+No issues reported",Personal,1.0,CA
+119,2010,9899,Prius Four,110897,"Accident check
+No issues reported",Personal,2.0,CA
+120,2018,26599,Prius Four FWD,35410,"Accident check
+1Accident reported",Personal,2.0,CA
+121,2010,7295,Prius,146246,"Accident check
+No issues reported",Personal,2.0,NJ
+122,2013,14000,Prius,98959,"Accident check
+No issues reported",Personal,2.0,CO
+123,2009,5995,Prius,154220,"Accident check
+No issues reported",Commercial,4.0,GA
+124,2007,4550,Prius,189000,"Accident check
+1Accident reported",Personal,2.0,AZ
+125,2010,8995,Prius,127843,"Accident check
+1Accident reported",Personal,3.0,WA
+126,2015,18789,Prius Persona Series,46557,"Accident check
+No issues reported",Personal,3.0,GA
+127,2011,9990,Prius Three,137082,"Accident check
+No issues reported",Commercial,4.0,OR
+128,2012,8400,Prius Two,153342,"Accident check
+No issues reported",Personal,3.0,PA
+129,2016,21591,Prius Two FWD,29080,"Accident check
+No issues reported",Personal,1.0,FL
+130,2010,5995,Prius,198409,"Accident check
+No issues reported",Personal,4.0,MS
+131,2016,18880,Prius Three Touring FWD,93455,"Accident check
+No issues reported",Personal,3.0,WA
+132,2008,5499,Prius,184700,"Accident check
+1Accident reported",Personal,2.0,WA
+133,2015,17895,Prius Three,71659,"Accident check
+No issues reported",Personal,2.0,WA
+134,2010,9699,Prius Four,129553,"Accident check
+No issues reported",Personal,1.0,CA
+135,2015,14800,Prius Two,112217,"Accident check
+No issues reported",Personal,3.0,CA
+136,2017,15999,Prius Three FWD,126918,"Accident check
+No issues reported",Personal,1.0,CA
+137,2010,10999,Prius,112891,"Accident check
+No issues reported",Personal,1.0,WA
+138,2021,27950,Prius L Eco FWD,9279,"Accident check
+No issues reported",Personal,1.0,NC
+139,2014,14995,Prius Five,67707,"Accident check
+No issues reported",Personal,1.0,OH
+140,2010,7500,Prius,130664,"Accident check
+No issues reported",Commercial,2.0,VA
+141,2010,8500,Prius,130000,"Accident check
+No issues reported",Personal,2.0,PA
+142,2007,4300,Prius FWD,163880,"Accident check
+No issues reported",Personal,2.0,FL
+143,2016,17977,Prius Two FWD,74104,"Accident check
+No issues reported",Personal,1.0,NY
+144,2007,2900,Prius,229256,"Accident check
+No issues reported",Personal,3.0,VA
+145,2015,14995,Prius Persona Series,84094,"Accident check
+1Accident reported",Personal,1.0,NY
+146,2012,14998,Prius Four,82131,"Accident check
+No issues reported",Personal,1.0,CA
+147,2013,7999,Prius,185334,"Accident check
+No issues reported",Personal,2.0,NC
+148,2016,19950,Prius Four FWD,65656,"Accident check
+No issues reported",Personal,2.0,CA
+149,2005,4995,Prius FWD,156244,"Accident check
+No issues reported",Personal,2.0,CO
+150,2010,13479,Prius Four,40000,"Accident check
+1Accident reported",Personal,1.0,CA
+151,2016,19954,Prius Three FWD,49976,"Accident check
+No issues reported",Personal,1.0,NE
+152,2021,29999,Prius 2020 Edition FWD,14907,"Accident check
+No issues reported",Commercial,1.0,CA
+153,2010,6595,Prius One,176115,"Accident check
+No issues reported",Personal,2.0,TX
+154,2018,22995,Prius Two FWD,25180,"Accident check
+No issues reported",Personal,1.0,NY
+155,2012,16999,Prius Four,44876,"Accident check
+No issues reported",Personal,1.0,CA
+156,2017,20999,Prius Two FWD,48727,"Accident check
+1Accident reported",Personal,1.0,AL
+157,2010,9999,Prius,116442,"Accident check
+No issues reported",Personal,2.0,OR
+158,2010,7950,Prius,148658,"Accident check
+No issues reported",Personal,3.0,CA
+159,2016,19997,Prius Four FWD,61073,"Accident check
+No issues reported",Personal,1.0,SC
+160,2016,19950,Prius Two FWD,67533,"Accident check
+No issues reported",Commercial,4.0,CA
+161,2005,6495,Prius FWD,78500,"Accident check
+1Accident reported",Personal,4.0,CA
+162,2010,6999,Prius,170930,"Accident check
+No issues reported",Commercial,4.0,NC
+163,2018,22998,Prius Two FWD,51978,"Accident check
+No issues reported",Personal,1.0,CO
+164,2015,19995,Prius Two,21283,"Accident check
+No issues reported",Personal,1.0,NY
+165,2016,19995,Prius Two FWD,59156,"Accident check
+No issues reported",Personal,4.0,IL
+166,2009,8999,Prius,91048,"Accident check
+No issues reported",Personal,2.0,IA
+167,2020,28662,Prius LE FWD,16479,"Accident check
+No issues reported",Personal,1.0,PA
+168,2018,21249,Prius Two FWD,51237,"Accident check
+No issues reported",Commercial,2.0,FL
+169,2020,31500,Prius XLE AWD-e,8493,"Accident check
+No issues reported",Personal,1.0,IN
+170,2015,15080,Prius,115394,"Accident check
+No issues reported",Personal,2.0,WA
+171,2010,6699,Prius,178025,"Accident check
+1Accident reported",Personal,1.0,MA
+172,2018,18459,Prius One FWD,102915,"Accident check
+No issues reported",Personal,1.0,NC
+173,2016,18995,Prius Two FWD,76628,"Accident check
+No issues reported",Personal,1.0,MA
+174,2007,4250,Prius FWD,159541,"Accident check
+No issues reported",Personal,1.0,GA
+175,2019,26995,Prius L Eco FWD,27131,"Accident check
+1Accident reported",Commercial,2.0,WA
+176,2015,19000,Prius Persona Series,61720,"Accident check
+No issues reported",Personal,2.0,CA
+177,2013,14700,Prius Three,54365,"Accident check
+No issues reported",Personal,1.0,MD
+178,2015,17500,Prius Four,81583,"Accident check
+No issues reported",Personal,1.0,CA
+179,2007,4990,Prius Touring FWD,152545,"Accident check
+2Accidents reported",Personal,4.0,MI
+180,2015,12500,Prius Two,144109,"Accident check
+No issues reported",Personal,2.0,WA
+181,2013,7499,Prius,182029,"Accident check
+No issues reported",Personal,2.0,OK
+182,2018,19995,Prius Four FWD,102348,"Accident check
+No issues reported",Personal,1.0,IL
+183,2021,30791,Prius 2020 Edition FWD,12535,"Accident check
+No issues reported",Personal,1.0,WA
+184,2008,7995,Prius Touring FWD,71216,"Accident check
+No issues reported",Personal,2.0,NY
+185,2020,28999,Prius XLE AWD-e,41155,"Accident check
+No issues reported",Personal,1.0,VA
+186,2021,30484,Prius LE AWD-e,13264,"Accident check
+No issues reported",Personal,1.0,NM
+188,2010,9499,Prius,124755,"Accident check
+No issues reported",Personal,2.0,CA
+189,2016,16999,Prius Three FWD,95500,"Accident check
+No issues reported",Personal,1.0,MA
+190,2015,17995,Prius Persona Series,81806,"Accident check
+No issues reported",Personal,1.0,OR
+191,2016,15995,Prius Two FWD,113175,"Accident check
+No issues reported",Personal,2.0,CA
+192,2019,24786,Prius Limited FWD,76308,"Accident check
+No issues reported",Personal,1.0,FL
+194,2017,21000,Prius Four Touring FWD,80497,"Accident check
+No issues reported",Personal,2.0,GA
+195,2015,19600,Prius Five,53010,"Accident check
+No issues reported",Commercial,3.0,MD
+196,2018,25881,Prius Three FWD,28978,"Accident check
+No issues reported",Personal,1.0,OR
+197,2018,25850,Prius Four FWD,21887,"Accident check
+No issues reported",Personal,1.0,FL
+198,2017,24102,Prius Two FWD,38659,"Accident check
+No issues reported",Personal,2.0,WA
+199,2010,12990,Prius Four,70195,"Accident check
+No issues reported",Personal,2.0,GA
+200,2005,4900,Prius FWD,152290,"Accident check
+No issues reported",Personal,2.0,GA
+201,2010,7250,Prius,144297,"Accident check
+No issues reported",Personal,2.0,FL
+202,2015,10999,Prius Four,170000,"Accident check
+No issues reported",Commercial,3.0,CA
+203,2013,11990,Prius One,109257,"Accident check
+No issues reported",Personal,2.0,CA
+204,2010,7795,Prius,153575,"Accident check
+No issues reported",Personal,3.0,CA
+205,2015,15450,Prius Two,102397,"Accident check
+No issues reported",Personal,2.0,CA
+206,2017,22977,Prius Two FWD,58978,"Accident check
+No issues reported",Personal,1.0,CA
+207,2016,17999,Prius Two FWD,99835,"Accident check
+No issues reported",Personal,2.0,CA
+208,2016,18589,Prius Two Eco FWD,71570,"Accident check
+No issues reported",Personal,2.0,TN
+209,2015,16500,Prius Persona Series,92283,"Accident check
+No issues reported",Personal,2.0,CA
+210,2010,8998,Prius,152834,"Accident check
+1Accident reported",Personal,1.0,OR
+211,2010,6300,Prius,189000,"Accident check
+No issues reported",Personal,3.0,AZ
+212,2012,10750,Prius,96855,"Accident check
+1Accident reported",Personal,3.0,IA
+213,2010,10595,Prius,111313,"Accident check
+No issues reported",Personal,3.0,NV
+214,2012,15400,Prius Four,54292,"Accident check
+1Accident reported",Personal,2.0,TX
+215,2021,35052,Prius XLE AWD-e,2782,"Accident check
+No issues reported",Personal,1.0,WA
+216,2020,22524,Prius L Eco FWD,49668,"Accident check
+1Accident reported",Commercial,1.0,NC
+217,2013,16494,Prius Four,36940,"Accident check
+No issues reported",Personal,2.0,MA
+218,2022,30550,Prius,5346,"Accident check
+No issues reported",Personal,1.0,MA
+219,2016,19576,Prius Two Eco FWD,66171,"Accident check
+No issues reported",Personal,1.0,OH
+220,2018,19881,Prius Four FWD,96207,"Accident check
+No issues reported",Personal,1.0,FL
+221,2015,15700,Prius Four,103956,"Accident check
+No issues reported",Commercial,3.0,NM
+222,2011,8995,Prius,118710,"Accident check
+1Accident reported",Personal,3.0,VA
+223,2006,6490,Prius FWD,115000,"Accident check
+No issues reported",Personal,3.0,GA
+224,2015,16994,Prius Three,72277,"Accident check
+No issues reported",Personal,2.0,SC
+225,2010,7500,Prius,154380,"Accident check
+1Accident reported",Personal,3.0,PA
+226,2016,15949,Prius Two Eco FWD,98224,"Accident check
+No issues reported",Commercial,2.0,UT
+227,2013,9995,Prius,153138,"Accident check
+No issues reported",Personal,1.0,CA
+228,2019,26607,Prius LE AWD-e,33441,"Accident check
+1Accident reported",Personal,2.0,OH
+229,2018,23977,Prius Four FWD,43720,"Accident check
+No issues reported",Personal,1.0,FL
+230,2010,9977,Prius,105523,"Accident check
+No issues reported",Personal,1.0,IL
+231,2010,7995,Prius,172216,"Accident check
+No issues reported",Personal,4.0,CA
+232,2016,17999,Prius Two FWD,99982,"Accident check
+No issues reported",Personal,3.0,KS
+233,2019,26995,Prius LE AWD-e,25252,"Accident check
+No issues reported",Personal,1.0,MO
+235,2016,19900,Prius Two FWD,55723,"Accident check
+No issues reported",Personal,2.0,FL
+236,2012,9500,Prius Four,117461,"Accident check
+1Accident reported",Personal,3.0,FL
+237,2010,8995,Prius,147010,"Accident check
+No issues reported",Personal,3.0,NY
+238,2017,24995,Prius Three Touring FWD,18200,"Accident check
+No issues reported",Personal,1.0,MA
+239,2015,12490,Prius Persona Series,135742,"Accident check
+No issues reported",Personal,2.0,FL
+240,2015,17550,Prius Two,79011,"Accident check
+No issues reported",Personal,1.0,OR
+241,2011,6900,Prius Two,171000,"Accident check
+No issues reported",Personal,1.0,IL
+242,2010,5500,Prius,185000,"Accident check
+1Accident reported",Personal,3.0,OK
+243,2013,14999,Prius Four,79035,"Accident check
+No issues reported",Personal,3.0,CA
+244,2016,21299,Prius Three Touring FWD,41409,"Accident check
+1Accident reported",Personal,3.0,CA
+245,2020,23994,Prius LE FWD,36823,"Accident check
+No issues reported",Commercial,2.0,FL
+246,2019,26328,Prius LE FWD,41462,"Accident check
+No issues reported",Personal,1.0,MO
+247,2015,14995,Prius Two,106686,"Accident check
+No issues reported",Commercial,2.0,CA
+248,2010,8400,Prius,145615,"Accident check
+No issues reported",Commercial,2.0,GA
+250,2015,12950,Prius,151391,"Accident check
+No issues reported",Personal,2.0,WA
+251,2019,21700,Prius L Eco FWD,92595,"Accident check
+No issues reported",Personal,1.0,CA
+252,2010,8795,Prius,126963,"Accident check
+No issues reported",Commercial,2.0,CT
+253,2017,15099,Prius Two FWD,130764,"Accident check
+No issues reported",Commercial,1.0,MA
+254,2010,8995,Prius,124400,"Accident check
+No issues reported",Commercial,4.0,TX
+255,2020,25990,Prius LE FWD,23186,"Accident check
+No issues reported",Commercial,1.0,HI
+256,2019,24495,Prius L Eco FWD,52502,"Accident check
+1Accident reported",Commercial,1.0,CO
+257,2020,23150,Prius LE FWD,60088,"Accident check
+No issues reported",Commercial,1.0,TX
+258,2018,25998,Prius Two FWD,28325,"Accident check
+No issues reported",Personal,1.0,CA
+259,2018,25985,Prius Four FWD,32425,"Accident check
+No issues reported",Personal,2.0,CA
+261,2020,24495,Prius L Eco FWD,10712,"Accident check
+1Accident reported",Personal,1.0,TX
+262,2019,26990,Prius L Eco FWD,27631,"Accident check
+No issues reported",Personal,1.0,CA
+263,2014,13994,Prius Two,96659,"Accident check
+No issues reported",Personal,1.0,OH
+264,2019,28906,Prius XLE AWD-e,20170,"Accident check
+No issues reported",Personal,1.0,MO
+265,2016,14991,Prius Two FWD,120000,"Accident check
+1Accident reported",Personal,1.0,MI
+266,2004,4999,Prius FWD,162955,"Accident check
+No issues reported",Personal,3.0,OH
+267,2015,18999,Prius Three,69600,"Accident check
+No issues reported",Personal,2.0,OR
+268,2011,9000,Prius Two,143223,"Accident check
+No issues reported",Personal,2.0,WA
+269,2009,7900,Prius,140650,"Accident check
+No issues reported",Personal,2.0,CA
+270,2020,23300,Prius LE FWD,58488,"Accident check
+No issues reported",Commercial,1.0,TX
+272,2010,6995,Prius,183000,"Accident check
+No issues reported",Personal,2.0,IN
+273,2019,24631,Prius LE FWD,63741,"Accident check
+No issues reported",Commercial,2.0,CA
+274,2009,7977,Prius Liftback FWD,135857,"Accident check
+No issues reported",Personal,5.0,CA
+275,2007,7999,Prius,125250,"Accident check
+No issues reported",Personal,3.0,WA
+276,2006,4900,Prius FWD,171295,"Accident check
+No issues reported",Personal,1.0,VA
+277,2017,19500,Prius One FWD,65113,"Accident check
+No issues reported",Personal,2.0,WA
+278,2017,24999,Prius Four Touring FWD,27748,"Accident check
+1Accident reported",Personal,1.0,FL
+279,2008,6990,Prius,98554,"Accident check
+No issues reported",Personal,2.0,TX
+280,2010,10900,Prius,80007,"Accident check
+3Accidents reported",Personal,2.0,IL
+281,2017,21895,Prius Two FWD,63092,"Accident check
+No issues reported",Personal,1.0,MN
+282,2008,6950,Prius,125218,"Accident check
+No issues reported",Personal,1.0,CA
+283,2010,11110,Prius Three,101772,"Accident check
+No issues reported",Personal,2.0,CA
+284,2016,19980,Prius Two Eco FWD,62766,"Accident check
+No issues reported",Personal,1.0,WA
+285,2019,27575,Prius LE AWD-e,15920,"Accident check
+No issues reported",Personal,1.0,MO
+286,2008,5999,Prius Touring FWD,145094,"Accident check
+1Accident reported",Personal,2.0,OH
+287,2010,8499,Prius,130606,"Accident check
+No issues reported",Personal,1.0,HI
+288,2004,4499,Prius FWD,198457,"Accident check
+No issues reported",Personal,6.0,CA
+290,2005,6950,Prius FWD,115015,"Accident check
+No issues reported",Commercial,2.0,CA
+291,2015,15995,Prius Four,108331,"Accident check
+No issues reported",Personal,1.0,CA
+293,2010,6488,Prius,178832,"Accident check
+2Accidents reported",Personal,3.0,MN
+294,2017,24999,Prius Three FWD,39455,"Accident check
+No issues reported",Personal,1.0,MI
+295,2010,8995,Prius,137658,"Accident check
+No issues reported",Personal,2.0,OH
+296,2016,17337,Prius Four Touring FWD,106159,"Accident check
+No issues reported",Personal,2.0,OH
+297,2010,8391,Prius,128625,"Accident check
+3Accidents reported",Personal,1.0,NJ
+298,2019,25995,Prius LE AWD-e,39054,"Accident check
+No issues reported",Personal,1.0,WI
+299,2015,12999,Prius Persona Series,144364,"Accident check
+1Accident reported",Personal,2.0,CA
+300,2010,7795,Prius,144504,"Accident check
+No issues reported",Personal,4.0,HI
+301,2015,17586,Prius Persona Series,77412,"Accident check
+No issues reported",Commercial,2.0,CO
+302,2017,21978,Prius Two FWD,36801,"Accident check
+No issues reported",Personal,1.0,UT
+303,2015,12444,Prius Persona Series,141158,"Accident check
+1Accident reported",Personal,2.0,CA
+304,2018,21490,Prius Two FWD,56003,"Accident check
+2Accidents reported",Commercial,2.0,IL
+305,2015,17500,Prius Four,62076,"Accident check
+3Accidents reported",Personal,1.0,VA
+306,2010,10880,Prius Four,114826,"Accident check
+No issues reported",Personal,2.0,MD
+307,2017,21903,Prius Two Eco FWD,51283,"Accident check
+No issues reported",Personal,1.0,NC
+309,2019,22900,Prius LE FWD,86068,"Accident check
+No issues reported",Commercial,2.0,CA
+310,2016,15495,Prius Two FWD,121588,"Accident check
+No issues reported",Personal,1.0,OH
+311,2011,6995,Prius Four,161470,"Accident check
+1Accident reported",Personal,2.0,TX
+312,2019,23999,Prius L Eco FWD,42472,"Accident check
+1Accident reported",Personal,1.0,TX
+313,2015,15900,Prius Five,122687,"Accident check
+1Accident reported",Personal,4.0,CO
+314,2017,21698,Prius Two FWD,51227,"Accident check
+No issues reported",Personal,1.0,CA
+315,2015,13999,Prius Persona Series,123914,"Accident check
+No issues reported",Personal,3.0,CA
+316,2017,25500,Prius Three FWD,28924,"Accident check
+No issues reported",Personal,1.0,CA
+317,2015,14994,Prius Four,110876,"Accident check
+No issues reported",Personal,1.0,MD
+318,2010,12493,Prius,53117,"Accident check
+No issues reported",Personal,1.0,IA
+319,2007,7499,Prius,137670,"Accident check
+1Accident reported",Personal,1.0,WA
+320,2010,9497,Prius,113277,"Accident check
+No issues reported",Personal,3.0,GA
+321,2012,9480,Prius Four,153657,"Accident check
+No issues reported",Commercial,3.0,AZ
+322,2010,6995,Prius,161172,"Accident check
+No issues reported",Commercial,3.0,FL
+323,2019,24732,Prius LE FWD,53309,"Accident check
+No issues reported",Personal,2.0,SC
+324,2010,6366,Prius,165899,"Accident check
+No issues reported",Commercial,2.0,OK
+325,2012,15497,Prius Four,46973,"Accident check
+1Accident reported",Personal,1.0,VA
+326,2013,13687,Prius Persona Series SE,96854,"Accident check
+No issues reported",Personal,2.0,CO
+327,2019,25400,Prius LE FWD,63224,"Accident check
+No issues reported",Personal,1.0,CA
+328,2010,8495,Prius,140393,"Accident check
+No issues reported",Personal,1.0,MA
+329,2018,24499,Prius Two FWD,33120,"Accident check
+No issues reported",Personal,1.0,CA
+330,2010,6990,Prius,173379,"Accident check
+No issues reported",Personal,3.0,PA
+331,2021,25995,Prius L Eco FWD,47686,"Accident check
+No issues reported",Personal,1.0,TX
+332,2018,26495,Prius Two FWD,23587,"Accident check
+No issues reported",Personal,1.0,CA
+333,2010,7995,Prius,147833,"Accident check
+No issues reported",Commercial,5.0,CA
+334,2009,5995,Prius Touring FWD,175267,"Accident check
+No issues reported",Personal,3.0,OH
+335,2015,18499,Prius Persona Series,65043,"Accident check
+No issues reported",Personal,2.0,TX
+336,2009,8450,Prius,106640,"Accident check
+No issues reported",Personal,3.0,MN
+337,2010,6495,Prius,184161,"Accident check
+No issues reported",Personal,1.0,PA
+338,2012,7995,Prius,162293,"Accident check
+1Accident reported",Personal,1.0,TX
+339,2015,15828,Prius Two,106610,"Accident check
+No issues reported",Personal,3.0,OR
+340,2010,10337,Prius,121761,"Accident check
+No issues reported",Personal,2.0,OH
+341,2019,25550,Prius L Eco FWD,36781,"Accident check
+No issues reported",Personal,1.0,PA
+342,2008,5495,Prius Touring FWD,139425,"Accident check
+1Accident reported",Personal,2.0,NJ
+343,2007,4799,Prius Touring FWD,201200,"Accident check
+No issues reported",Personal,2.0,CA
+344,2006,6285,Prius FWD,132466,"Accident check
+No issues reported",Personal,2.0,GA
+345,2015,15975,Prius Two,69567,"Accident check
+2Accidents reported",Commercial,2.0,MA
+346,2006,6495,Prius FWD,119880,"Accident check
+No issues reported",Personal,4.0,NJ
+347,2019,23595,Prius L Eco FWD,47474,"Accident check
+No issues reported",Personal,1.0,UT
+348,2007,6450,Prius,151910,"Accident check
+No issues reported",Personal,2.0,OH
+349,2016,18741,Prius Two Eco FWD,77086,"Accident check
+1Accident reported",Personal,2.0,CA
+350,2013,7195,Prius,190110,"Accident check
+No issues reported",Personal,1.0,TX
+351,2016,18950,Prius Four FWD,90039,"Accident check
+No issues reported",Personal,1.0,CA
+352,2016,18491,Prius Two FWD,74199,"Accident check
+1Accident reported",Commercial,1.0,CA
+353,2009,5495,Prius Liftback FWD,174000,"Accident check
+No issues reported",Personal,1.0,CA
+354,2015,17584,Prius Persona Series,86998,"Accident check
+No issues reported",Personal,2.0,WA
+355,2015,14998,Prius Two,125000,"Accident check
+No issues reported",Personal,1.0,CA
+356,2004,3500,Prius FWD,215810,"Accident check
+1Accident reported",Personal,2.0,VA
+357,2010,8563,Prius,166910,"Accident check
+No issues reported",Personal,2.0,WA
+358,2015,15998,Prius Two,91669,"Accident check
+No issues reported",Personal,2.0,NE
+359,2016,15495,Prius Two FWD,116301,"Accident check
+1Accident reported",Personal,1.0,AZ
+360,2015,15000,Prius One,110215,"Accident check
+No issues reported",Personal,3.0,VA
+361,2008,6499,Prius,165211,"Accident check
+No issues reported",Personal,1.0,CA
+362,2010,10995,Prius,107823,"Accident check
+No issues reported",Personal,1.0,CA
+363,2021,28976,Prius L Eco FWD,10441,"Accident check
+No issues reported",Personal,1.0,CA
+365,2017,19991,Prius Two FWD,74380,"Accident check
+No issues reported",Personal,1.0,MT
+366,2014,11200,Prius Four,131063,"Accident check
+No issues reported",Personal,1.0,MO
+367,2012,8950,Prius Four,167773,"Accident check
+No issues reported",Personal,2.0,NC
+368,2018,23500,Prius Three FWD,59927,"Accident check
+No issues reported",Personal,1.0,IN
+369,2015,19199,Prius Four,36734,"Accident check
+No issues reported",Commercial,1.0,CA
+370,2018,24500,Prius Two FWD,34870,"Accident check
+No issues reported",Personal,1.0,IL
+371,2015,18250,Prius Persona Series,82841,"Accident check
+No issues reported",Personal,2.0,CA
+373,2015,10995,Prius Two,143689,"Accident check
+No issues reported",Personal,1.0,FL
+374,2015,14495,Prius Two,97034,"Accident check
+1Accident reported",Personal,2.0,NJ
+375,2016,19995,Prius,62570,"Accident check
+No issues reported",Personal,1.0,ID
+376,2008,5750,Prius,160135,"Accident check
+No issues reported",Personal,2.0,GA
+377,2015,17970,Prius Three,70247,"Accident check
+No issues reported",Personal,1.0,NY
+378,2015,18500,Prius Persona Series,60807,"Accident check
+No issues reported",Personal,2.0,AZ
+379,2014,10350,Prius Four,130000,"Accident check
+No issues reported",Commercial,3.0,FL
+380,2010,13895,Prius Four,78674,"Accident check
+No issues reported",Personal,1.0,CA
+381,2017,20000,Prius Three FWD,88536,"Accident check
+No issues reported",Personal,1.0,IN
+382,2002,7800,Prius FWD,38282,"Accident check
+No issues reported",Personal,2.0,CA
+383,2010,8499,Prius,141500,"Accident check
+No issues reported",Personal,2.0,FL
+384,2011,9841,Prius,96043,"Accident check
+1Accident reported",Personal,2.0,OH
+386,2013,10798,Prius,137132,"Accident check
+1Accident reported",Personal,2.0,GA
+387,2017,21964,Prius Two FWD,54399,"Accident check
+No issues reported",Personal,1.0,NC
+388,2010,8999,Prius,123220,"Accident check
+1Accident reported",Personal,2.0,SC
+389,2008,5995,Prius Touring FWD,142508,"Accident check
+No issues reported",Personal,2.0,FL
+390,2016,16995,Prius Three FWD,95692,"Accident check
+No issues reported",Personal,3.0,TX
+391,2011,5450,Prius Two,213718,"Accident check
+2Accidents reported",Personal,2.0,CO
+392,2007,6380,Prius,135980,"Accident check
+No issues reported",Personal,1.0,CT
+393,2014,13981,Prius Three,97719,"Accident check
+No issues reported",Personal,2.0,TX
+394,2013,10999,Prius Two,135822,"Accident check
+No issues reported",Personal,1.0,CO
+395,2011,11000,Prius Two,100745,"Accident check
+1Accident reported",Personal,2.0,CO
+396,2016,19800,Prius Two FWD,51027,"Accident check
+No issues reported",Personal,1.0,TN
+397,2015,17490,Prius Three,70100,"Accident check
+No issues reported",Personal,2.0,TX
+398,2010,7699,Prius,162819,"Accident check
+No issues reported",Personal,1.0,MA
+399,2017,21505,Prius Three FWD,80864,"Accident check
+No issues reported",Personal,1.0,WA
+400,2008,8587,Prius Touring FWD,100930,"Accident check
+No issues reported",Personal,1.0,OR
+401,2017,17286,Prius Three FWD,114060,"Accident check
+No issues reported",Personal,1.0,PA
+402,2010,3700,Prius,271000,"Accident check
+No issues reported",Personal,4.0,MN
+403,2018,15500,Prius Two FWD,158233,"Accident check
+No issues reported",Personal,1.0,UT
+404,2010,8997,Prius,128456,"Accident check
+No issues reported",Personal,1.0,GA
+405,2021,31496,Prius 2020 Edition FWD,10825,"Accident check
+1Accident reported",Personal,1.0,MN
+406,2010,5490,Prius,201000,"Accident check
+1Accident reported",Personal,3.0,VA
+407,2006,7990,Prius FWD,130070,"Accident check
+No issues reported",Commercial,2.0,CA
+408,2010,10991,Prius,101280,"Accident check
+No issues reported",Personal,4.0,CA
+409,2016,15499,Prius Two Eco FWD,117650,"Accident check
+No issues reported",Commercial,2.0,AZ
+410,2018,21736,Prius Two FWD,63366,"Accident check
+No issues reported",Personal,1.0,GA
+411,2014,11898,Prius,124795,"Accident check
+1Accident reported",Personal,2.0,NC
+412,2011,9995,Prius,138638,"Accident check
+No issues reported",Personal,2.0,SC
+413,2010,11495,Prius,89041,"Accident check
+No issues reported",Personal,5.0,CA
+414,2010,10995,Prius,97100,"Accident check
+No issues reported",Personal,2.0,MO
+415,2010,8650,Prius,141367,"Accident check
+No issues reported",Personal,2.0,CA
+416,2007,6999,Prius Touring FWD,154863,"Accident check
+No issues reported",Personal,2.0,WA
+417,2005,3995,Prius FWD,199368,"Accident check
+2Accidents reported",Personal,2.0,KY
+418,2015,20944,Prius Two,19210,"Accident check
+No issues reported",Personal,1.0,MI
+419,2020,24999,Prius LE AWD-e,43047,"Accident check
+1Accident reported",Commercial,1.0,FL
+420,2013,15598,Prius,72270,"Accident check
+No issues reported",Personal,3.0,CA
+421,2010,9499,Prius,122500,"Accident check
+No issues reported",Personal,2.0,CA
+422,2013,11995,Prius,104558,"Accident check
+1Accident reported",Personal,1.0,FL
+423,2011,10995,Prius,92697,"Accident check
+No issues reported",Personal,3.0,GA
+424,2013,9950,Prius,149306,"Accident check
+No issues reported",Commercial,2.0,NC
+425,2015,16597,Prius Two,86886,"Accident check
+No issues reported",Commercial,2.0,AZ
+426,2004,6499,Prius FWD,129100,"Accident check
+No issues reported",Personal,3.0,WA
+427,2010,7950,Prius,147000,"Accident check
+No issues reported",Personal,4.0,TX
+428,2005,3995,Prius FWD,215000,"Accident check
+No issues reported",Personal,2.0,IA
+429,2017,22749,Prius Two Eco FWD,51853,"Accident check
+No issues reported",Personal,1.0,WA
+430,2011,12999,Prius Two,65241,"Accident check
+No issues reported",Personal,1.0,CO
+431,2018,17995,Prius Four FWD,130447,"Accident check
+No issues reported",Personal,1.0,WA
+432,2007,5999,Prius Touring FWD,181874,"Accident check
+No issues reported",Personal,4.0,WA
+433,2016,19995,Prius Three FWD,72809,"Accident check
+No issues reported",Personal,2.0,OH
+434,2015,20599,Prius Four,37275,"Accident check
+No issues reported",Personal,1.0,CA
+435,2007,6500,Prius Touring FWD,160859,"Accident check
+No issues reported",Personal,2.0,MO
+436,2018,29391,Prius Four FWD,17311,"Accident check
+No issues reported",Personal,1.0,CA
+437,2019,25500,Prius L Eco FWD,45960,"Accident check
+No issues reported",Personal,1.0,MO
+439,2015,14950,Prius Three,109895,"Accident check
+No issues reported",Personal,3.0,CA
+440,2012,9537,Prius Three,135000,"Accident check
+No issues reported",Personal,2.0,OH
+441,2017,20997,Prius Two FWD,77952,"Accident check
+No issues reported",Personal,1.0,NC
+442,2015,11899,Prius Two,136020,"Accident check
+1Accident reported",Personal,2.0,CA
+443,2008,6890,Prius,122293,"Accident check
+No issues reported",Personal,3.0,CT
+444,2016,16991,Prius Two FWD,104128,"Accident check
+No issues reported",Personal,1.0,MD
+445,2006,6495,Prius FWD,142730,"Accident check
+No issues reported",Personal,2.0,SC
+446,2010,8598,Prius,162657,"Accident check
+No issues reported",Personal,2.0,CO
+447,2009,7950,Prius Touring FWD,107644,"Accident check
+No issues reported",Personal,1.0,VA
+448,2019,26764,Prius L Eco FWD,29324,"Accident check
+No issues reported",Personal,1.0,IN
+449,2021,31095,Prius 2020 Edition FWD,16735,"Accident check
+No issues reported",Personal,1.0,CA
+450,2016,17999,Prius Two FWD,97425,"Accident check
+No issues reported",Commercial,2.0,CA
+451,2018,25495,Prius,49363,"Accident check
+No issues reported",Personal,1.0,CA
+452,2015,17500,Prius Persona Series,82096,"Accident check
+No issues reported",Personal,1.0,NV
+453,2015,18950,Prius Persona Series,61767,"Accident check
+No issues reported",Personal,1.0,CA
+454,2007,5750,Prius Touring FWD,170570,"Accident check
+No issues reported",Personal,2.0,CA
+455,2010,8500,Prius,142000,"Accident check
+1Accident reported",Personal,1.0,MO
+456,2015,8995,Prius Two,177291,"Accident check
+1Accident reported",Personal,1.0,TX
+457,2017,22490,Prius Two FWD,45233,"Accident check
+No issues reported",Personal,1.0,IL
+458,2018,24995,Prius Two FWD,34506,"Accident check
+1Accident reported",Personal,1.0,LA
+459,2016,16995,Prius Two FWD,110143,"Accident check
+No issues reported",Personal,1.0,NC
+460,2005,5950,Prius FWD,118672,"Accident check
+No issues reported",Personal,2.0,NJ
+461,2015,12795,Prius,149309,"Accident check
+No issues reported",Personal,1.0,CA
+462,2013,9900,Prius,146381,"Accident check
+No issues reported",Personal,1.0,NJ
+463,2008,7950,Prius Touring FWD,131245,"Accident check
+No issues reported",Personal,2.0,CA
+464,2015,13977,Prius Persona Series,140540,"Accident check
+No issues reported",Personal,3.0,WA
+465,2018,18995,Prius Two FWD,134391,"Accident check
+No issues reported",Personal,2.0,WA
+466,2017,17796,Prius Three FWD,108252,"Accident check
+No issues reported",Commercial,1.0,CA
+467,2010,7997,Prius,144272,"Accident check
+No issues reported",Personal,2.0,MA
+468,2018,16995,Prius,125033,"Accident check
+No issues reported",Commercial,1.0,NC
+469,2015,15990,Prius Four,101162,"Accident check
+No issues reported",Personal,2.0,CA
+470,2008,5990,Prius Liftback FWD,168000,"Accident check
+No issues reported",Personal,1.0,CA
+471,2010,7988,Prius,147050,"Accident check
+No issues reported",Personal,1.0,CT
+472,2013,10990,Prius Persona Series SE,145124,"Accident check
+No issues reported",Personal,2.0,IL
+473,2008,7995,Prius,111540,"Accident check
+No issues reported",Personal,3.0,NC
+474,2022,32988,Prius,2730,"Accident check
+No issues reported",Personal,1.0,CA
+475,2021,30988,Prius LE FWD,5712,"Accident check
+No issues reported",Commercial,1.0,CA
+476,2015,14999,Prius One,123327,"Accident check
+1Accident reported",Personal,4.0,WA
+477,2013,12822,Prius Two,96949,"Accident check
+No issues reported",Personal,1.0,IA
+478,2010,9299,Prius,148160,"Accident check
+No issues reported",Personal,3.0,WA
+480,2017,23997,Prius Two FWD,30057,"Accident check
+No issues reported",Personal,2.0,CA
+481,2009,7495,Prius,137656,"Accident check
+No issues reported",Personal,2.0,WI
+482,2018,26000,Prius Four FWD,36765,"Accident check
+No issues reported",Personal,1.0,MI
+483,2018,23999,Prius Four Touring FWD,55449,"Accident check
+1Accident reported",Commercial,2.0,FL
+484,2005,6000,Prius FWD,126000,"Accident check
+No issues reported",Personal,3.0,MN
+485,2015,18995,Prius Two,33344,"Accident check
+1Accident reported",Personal,1.0,FL
+486,2015,10869,Prius Persona Series,161065,"Accident check
+No issues reported",Personal,2.0,PA
+487,2015,22495,Prius Five,30692,"Accident check
+No issues reported",Personal,2.0,CO
+488,2010,8800,Prius,151663,"Accident check
+No issues reported",Personal,4.0,MI
+489,2016,21888,Prius Three FWD,58881,"Accident check
+No issues reported",Personal,2.0,CA
+490,2010,8495,Prius,145372,"Accident check
+No issues reported",Personal,1.0,GA
+491,2015,17980,Prius Persona Series,78494,"Accident check
+1Accident reported",Personal,2.0,WA
+492,2016,18480,Prius Two FWD,77992,"Accident check
+1Accident reported",Personal,2.0,CT
+493,2020,29250,Prius XLE FWD,23025,"Accident check
+No issues reported",Personal,1.0,SC
+494,2016,21750,Prius Two FWD,34933,"Accident check
+No issues reported",Personal,1.0,TX
+495,2015,16995,Prius Three,94098,"Accident check
+No issues reported",Personal,2.0,OR
+496,2008,6950,Prius Liftback FWD,184637,"Accident check
+No issues reported",Personal,3.0,IL
+497,2005,4895,Prius FWD,180000,"Accident check
+No issues reported",Personal,3.0,GA
+498,2010,8995,Prius,127578,"Accident check
+2Accidents reported",Personal,3.0,SC
+499,2008,6990,Prius,121113,"Accident check
+No issues reported",Personal,2.0,TX
+500,2016,18771,Prius Two FWD,82128,"Accident check
+No issues reported",Personal,3.0,CA
+501,2014,10995,Prius Two,150243,"Accident check
+1Accident reported",Personal,1.0,NY
+502,2010,12757,Prius,100423,"Accident check
+No issues reported",Personal,1.0,OR
+503,2011,10500,Prius,97999,"Accident check
+No issues reported",Personal,3.0,TX
+504,2008,6495,Prius,140598,"Accident check
+1Accident reported",Personal,2.0,MA
+505,2013,11999,Prius,140119,"Accident check
+No issues reported",Personal,2.0,TN
+507,2016,17999,Prius Two FWD,94920,"Accident check
+No issues reported",Personal,1.0,CA
+508,2009,6000,Prius Touring FWD,158371,"Accident check
+No issues reported",Personal,2.0,TN
+509,2014,14995,Prius Two,84809,"Accident check
+No issues reported",Commercial,2.0,IL
+510,2014,9995,Prius Five,171430,"Accident check
+No issues reported",Personal,2.0,CA
+511,2015,19991,Prius Persona Series,60803,"Accident check
+No issues reported",Personal,2.0,OR
+512,2010,9500,Prius,129574,"Accident check
+No issues reported",Personal,2.0,PA
+513,2018,22990,Prius Two FWD,61672,"Accident check
+No issues reported",Personal,1.0,CA
+514,2011,5994,Prius Two,186200,"Accident check
+No issues reported",Personal,2.0,MA
+515,2008,3999,Prius Liftback FWD,170006,"Accident check
+1Accident reported",Personal,2.0,FL
+516,2019,25888,Prius L Eco FWD,51681,"Accident check
+No issues reported",Personal,1.0,CA
+517,2014,11991,Prius Two,123371,"Accident check
+1Accident reported",Personal,2.0,FL
+518,2006,5999,Prius FWD,137403,"Accident check
+No issues reported",Personal,4.0,ID
+519,2021,31981,Prius 2020 Edition FWD,17590,"Accident check
+No issues reported",Personal,1.0,CA
+520,2013,10800,Prius One,108448,"Accident check
+No issues reported",Commercial,4.0,FL
+521,2019,27800,Prius LE FWD,14126,"Accident check
+No issues reported",Personal,1.0,IL
+522,2013,13995,Prius,112750,"Accident check
+No issues reported",Personal,2.0,NM
+525,2010,10999,Prius,116839,"Accident check
+No issues reported",Personal,1.0,CA
+526,2004,4999,Prius FWD,151309,"Accident check
+2Accidents reported",Personal,3.0,VA
+527,2010,7995,Prius,167100,"Accident check
+No issues reported",Personal,2.0,CA
+528,2013,15500,Prius Five,66705,"Accident check
+No issues reported",Personal,2.0,MI
+529,2005,5900,Prius FWD,107748,"Accident check
+No issues reported",Personal,1.0,NJ
+530,2010,10995,Prius Three,112867,"Accident check
+No issues reported",Personal,1.0,NC
+531,2009,7495,Prius Liftback FWD,114594,"Accident check
+No issues reported",Personal,3.0,ID
+532,2007,5995,Prius,153934,"Accident check
+No issues reported",Personal,1.0,NC
+533,2010,9300,Prius,147185,"Accident check
+No issues reported",Commercial,2.0,WA
+534,2016,17971,Prius Two FWD,96853,"Accident check
+No issues reported",Personal,1.0,TX
+535,2018,28997,Prius Four FWD,15951,"Accident check
+No issues reported",Personal,1.0,CA
+536,2013,7997,Prius Two,162835,"Accident check
+No issues reported",Commercial,2.0,FL
+537,2015,18595,Prius Persona Series,59544,"Accident check
+No issues reported",Personal,1.0,MD
+538,2010,11995,Prius,71622,"Accident check
+No issues reported",Personal,2.0,PA
+539,2011,7495,Prius,174650,"Accident check
+No issues reported",Personal,1.0,VA
+540,2013,12995,Prius Two,97451,"Accident check
+No issues reported",Personal,1.0,IL
+541,2015,16000,Prius Four,94801,"Accident check
+No issues reported",Personal,1.0,VA
+542,2010,8995,Prius,143198,"Accident check
+No issues reported",Personal,3.0,CA
+543,2010,10990,Prius,103235,"Accident check
+No issues reported",Personal,1.0,GA
+544,2004,4777,Prius FWD,185309,"Accident check
+No issues reported",Personal,1.0,IL
+545,2010,7995,Prius,155488,"Accident check
+No issues reported",Personal,2.0,WI
+546,2011,9950,Prius,135350,"Accident check
+No issues reported",Personal,2.0,CA
+547,2021,31313,Prius LE AWD-e,16246,"Accident check
+No issues reported",Personal,1.0,WA
+550,2012,9995,Prius,129907,"Accident check
+No issues reported",Personal,1.0,NC
+551,2010,8995,Prius Four,153607,"Accident check
+No issues reported",Personal,3.0,VA
+552,2018,24995,Prius,25905,"Accident check
+No issues reported",Personal,1.0,VA
+553,2005,4999,Prius FWD,177974,"Accident check
+No issues reported",Personal,3.0,MN
+554,2016,17481,Prius Four FWD,90949,"Accident check
+No issues reported",Personal,2.0,FL
+555,2012,6999,Prius,193120,"Accident check
+No issues reported",Personal,1.0,NC
+556,2012,13488,Prius Four,90069,"Accident check
+No issues reported",Personal,1.0,TX
+557,2012,10250,Prius Three,126003,"Accident check
+No issues reported",Commercial,2.0,CA
+558,2013,9750,Prius Four,132512,"Accident check
+No issues reported",Personal,2.0,FL
+559,2009,5990,Prius,146128,"Accident check
+No issues reported",Personal,4.0,ND
+560,2008,6900,Prius Liftback FWD,102931,"Accident check
+No issues reported",Personal,2.0,PA
+561,2008,7477,Prius Touring FWD,155809,"Accident check
+No issues reported",Personal,3.0,CA
+562,2015,12992,Prius Two,120065,"Accident check
+No issues reported",Personal,1.0,FL
+563,2013,11499,Prius,123731,"Accident check
+No issues reported",Personal,2.0,VA
+564,2010,8789,Prius,149967,"Accident check
+No issues reported",Personal,1.0,CA
+565,2013,10498,Prius Two,148096,"Accident check
+No issues reported",Commercial,3.0,CA
+566,2017,16995,Prius Two FWD,131760,"Accident check
+No issues reported",Personal,3.0,CO
+567,2017,22827,Prius Two FWD,51394,"Accident check
+No issues reported",Personal,1.0,IN
+568,2008,6995,Prius Touring FWD,166567,"Accident check
+No issues reported",Personal,3.0,TX
+569,2017,20175,Prius Three FWD,92350,"Accident check
+No issues reported",Personal,1.0,IL
+570,2019,27496,Prius LE FWD,17399,"Accident check
+No issues reported",Personal,1.0,FL
+571,2009,3700,Prius Touring FWD,238700,"Accident check
+1Accident reported",Personal,3.0,GA
+572,2007,7995,Prius,124695,"Accident check
+No issues reported",Personal,2.0,IN
+573,2019,28329,Prius L Eco FWD,2777,"Accident check
+No issues reported",Personal,1.0,AZ
+574,2017,24492,Prius Three Touring FWD,41471,"Accident check
+No issues reported",Personal,1.0,MT
+575,2018,21154,Prius Two FWD,70737,"Accident check
+1Accident reported",Commercial,2.0,MD
+576,2018,25000,Prius One FWD,16505,"Accident check
+No issues reported",Personal,1.0,VA
+577,2014,12400,Prius Three,124100,"Accident check
+No issues reported",Personal,1.0,FL
+578,2009,7995,Prius Touring FWD,101005,"Accident check
+1Accident reported",Personal,2.0,NC
+579,2008,5199,Prius Touring FWD,182674,"Accident check
+No issues reported",Commercial,3.0,TN
+580,2010,11999,Prius Four,89617,"Accident check
+No issues reported",Personal,1.0,CA
+581,2014,12950,Prius Two,130000,"Accident check
+No issues reported",Personal,2.0,IL
+582,2016,21498,Prius Three FWD,52009,"Accident check
+No issues reported",Personal,1.0,CO
+583,2015,18995,Prius Two,50638,"Accident check
+No issues reported",Personal,1.0,MA
+584,2011,7450,Prius Two,162413,"Accident check
+No issues reported",Personal,4.0,NJ
+585,2008,8999,Prius Liftback FWD,133000,"Accident check
+No issues reported",Personal,1.0,CA
+586,2021,30347,Prius LE FWD,3105,"Accident check
+1Accident reported",Commercial,1.0,TX
+587,2016,22948,Prius Two FWD,43737,"Accident check
+No issues reported",Personal,1.0,WA
+588,2018,24649,Prius Two FWD,39128,"Accident check
+No issues reported",Personal,2.0,CA
+589,2015,16990,Prius Two,87818,"Accident check
+No issues reported",Personal,2.0,CA
+590,2008,7500,Prius FWD,131053,"Accident check
+2Accidents reported",Personal,3.0,GA
+591,2014,16073,Prius Three,57449,"Accident check
+No issues reported",Personal,1.0,WI
+592,2016,15991,Prius Two Eco FWD,121507,"Accident check
+1Accident reported",Personal,2.0,KY
+593,2006,7495,Prius FWD,89217,"Accident check
+2Accidents reported",Personal,1.0,PA
+594,2008,5495,Prius,206311,"Accident check
+2Accidents reported",Personal,2.0,WA
+595,2012,12995,Prius Three,87495,"Accident check
+No issues reported",Commercial,1.0,TX
+596,2015,13500,Prius Four,154000,"Accident check
+No issues reported",Personal,1.0,CA
+597,2010,10450,Prius,101105,"Accident check
+1Accident reported",Personal,2.0,PA
+598,2018,13995,Prius Two FWD,157560,"Accident check
+3Accidents reported",Commercial,1.0,CA
+599,2012,8000,Prius Three,164000,"Accident check
+No issues reported",Personal,3.0,MA
+600,2015,18990,Prius Three,70375,"Accident check
+No issues reported",Commercial,1.0,OR
+601,2017,21756,Prius Four FWD,50805,"Accident check
+No issues reported",Personal,1.0,TN
+602,2018,19916,Prius Two FWD,96485,"Accident check
+1Accident reported",Commercial,1.0,IN
+603,2017,23500,Prius Four Touring FWD,52688,"Accident check
+No issues reported",Personal,2.0,MI
+604,2016,13775,Prius Two FWD,125000,"Accident check
+1Accident reported",Personal,2.0,VT
+605,2015,10995,Prius Persona Series,165871,"Accident check
+No issues reported",Personal,4.0,MD
+606,2009,6950,Prius,138327,"Accident check
+No issues reported",Personal,3.0,CT
+607,2011,7990,Prius,151903,"Accident check
+No issues reported",Personal,2.0,TN
+608,2005,4988,Prius FWD,167227,"Accident check
+No issues reported",Personal,1.0,TX
+609,2006,6999,Prius FWD,171000,"Accident check
+No issues reported",Commercial,2.0,CA
+610,2016,16577,Prius Two FWD,118919,"Accident check
+No issues reported",Personal,1.0,TX
+611,2009,4999,Prius Touring FWD,139582,"Accident check
+1Accident reported",Commercial,3.0,FL
+612,2021,30997,Prius LE AWD-e,17182,"Accident check
+No issues reported",Personal,1.0,WA
+613,2016,16999,Prius,124578,"Accident check
+No issues reported",Personal,2.0,CA
+614,2017,22111,Prius Two FWD,64441,"Accident check
+No issues reported",Personal,2.0,CA
+615,2012,10088,Prius Two,156182,"Accident check
+No issues reported",Personal,2.0,MN
+616,2016,12800,Prius Two FWD,165000,"Accident check
+No issues reported",Personal,2.0,NC
+617,2010,9995,Prius,104040,"Accident check
+No issues reported",Personal,2.0,NH
+618,2019,27399,Prius LE FWD,22348,"Accident check
+No issues reported",Personal,1.0,CA
+619,2014,13900,Prius Two,113915,"Accident check
+No issues reported",Personal,3.0,GA
+620,2017,23295,Prius,43445,"Accident check
+No issues reported",Personal,1.0,NY
+621,2010,7440,Prius,192721,"Accident check
+No issues reported",Personal,1.0,IN
+622,2008,5495,Prius Touring FWD,174930,"Accident check
+1Accident reported",Personal,1.0,MN
+623,2020,32000,Prius Limited FWD,39770,"Accident check
+No issues reported",Personal,1.0,CA
+624,2014,14300,Prius Two,94580,"Accident check
+No issues reported",Commercial,2.0,MD
+625,2010,9500,Prius,110394,"Accident check
+1Accident reported",Personal,1.0,TX
+626,2010,10900,Prius,107892,"Accident check
+No issues reported",Personal,2.0,OH
+627,2015,17500,Prius Persona Series,77762,"Accident check
+No issues reported",Personal,1.0,VA
+628,2009,7997,Prius,122395,"Accident check
+1Accident reported",Personal,1.0,MN
+629,2015,14000,Prius Four,138764,"Accident check
+No issues reported",Personal,2.0,IN
+630,2007,5500,Prius Touring FWD,182000,"Accident check
+No issues reported",Personal,3.0,NC
+631,2011,10990,Prius,98207,"Accident check
+No issues reported",Personal,2.0,NC
+632,2009,6495,Prius Liftback FWD,138700,"Accident check
+3Accidents reported",Personal,1.0,NJ
+633,2008,4984,Prius,216701,"Accident check
+2Accidents reported",Personal,2.0,MO
+634,2017,21900,Prius One FWD,34937,"Accident check
+No issues reported",Personal,1.0,AZ
+635,2019,25900,Prius XLE FWD,54097,"Accident check
+No issues reported",Personal,1.0,SC
+636,2020,26500,Prius,40481,"Accident check
+No issues reported",Personal,1.0,IA
+637,2010,7999,Prius,156890,"Accident check
+No issues reported",Personal,2.0,MA
+638,2018,26998,Prius Two FWD,30270,"Accident check
+No issues reported",Personal,1.0,CA
+639,2016,21998,Prius Two Eco FWD,44251,"Accident check
+No issues reported",Personal,3.0,WA
+640,2010,8960,Prius,142211,"Accident check
+No issues reported",Personal,1.0,IL
+641,2006,4999,Prius FWD,153358,"Accident check
+1Accident reported",Commercial,3.0,SC
+642,2016,19950,Prius Four FWD,83722,"Accident check
+No issues reported",Personal,2.0,CA
+643,2006,4900,Prius FWD,201000,"Accident check
+No issues reported",Personal,2.0,OR
+644,2019,28891,Prius L Eco FWD,7692,"Accident check
+No issues reported",Personal,1.0,CA
+645,2008,6100,Prius Touring FWD,146850,"Accident check
+1Accident reported",Personal,2.0,VA
+646,2011,6495,Prius,204685,"Accident check
+No issues reported",Personal,2.0,TX
+647,2013,18977,Prius Four,20985,"Accident check
+No issues reported",Personal,1.0,TX
+648,2010,10995,Prius,120420,"Accident check
+No issues reported",Personal,2.0,CA
+649,2010,9991,Prius,133683,"Accident check
+No issues reported",Personal,2.0,CA
+650,2006,5495,Prius FWD,145673,"Accident check
+No issues reported",Personal,1.0,OH
+651,2018,27184,Prius Four FWD,30888,"Accident check
+No issues reported",Personal,1.0,AZ
+652,2020,29327,Prius LE FWD,12941,"Accident check
+No issues reported",Personal,2.0,CT
+653,2009,7777,Prius,165057,"Accident check
+No issues reported",Personal,3.0,CA
+654,2011,8995,Prius One,130800,"Accident check
+1Accident reported",Personal,2.0,CA
+655,2015,20000,Prius Two,39201,"Accident check
+No issues reported",Personal,2.0,VA
+656,2010,8511,Prius,149863,"Accident check
+No issues reported",Personal,3.0,NC
+657,2010,8995,Prius Four,136612,"Accident check
+No issues reported",Personal,2.0,RI
+658,2011,9300,Prius Two,142820,"Accident check
+No issues reported",Personal,4.0,CA
+659,2019,26998,Prius LE FWD,26062,"Accident check
+No issues reported",Personal,2.0,FL
+660,2019,23494,Prius LE FWD,84912,"Accident check
+No issues reported",Personal,1.0,CA
+661,2015,14880,Prius Persona Series,118754,"Accident check
+No issues reported",Personal,1.0,WI
+663,2015,13995,Prius Persona Series,109636,"Accident check
+1Accident reported",Commercial,2.0,MA
+664,2015,10950,Prius Four,169120,"Accident check
+No issues reported",Personal,1.0,NY
+665,2009,9100,Prius,88862,"Accident check
+No issues reported",Personal,1.0,NY
+666,2015,18995,Prius Persona Series,67588,"Accident check
+No issues reported",Personal,1.0,CA
+667,2020,30981,Prius LE FWD,10822,"Accident check
+No issues reported",Personal,1.0,CA
+668,2005,3700,Prius FWD,224000,"Accident check
+No issues reported",Personal,1.0,NC
+669,2018,24995,Prius Three Touring FWD,45625,"Accident check
+1Accident reported",Personal,1.0,CA
+670,2020,27498,Prius LE FWD,22616,"Accident check
+No issues reported",Personal,1.0,UT
+671,2021,31700,Prius LE AWD-e,9715,"Accident check
+No issues reported",Personal,1.0,OR
+672,2011,12999,Prius Two,69606,"Accident check
+No issues reported",Personal,1.0,WV
+673,2011,7495,Prius Two,159936,"Accident check
+No issues reported",Personal,2.0,MA
+674,2017,25894,Prius Four FWD,26552,"Accident check
+No issues reported",Personal,1.0,AZ
+675,2015,19750,Prius Persona Series,33000,"Accident check
+No issues reported",Personal,2.0,CA
+676,2009,5950,Prius Touring FWD,159414,"Accident check
+No issues reported",Personal,5.0,TX
+677,2016,22900,Prius Four FWD,19000,"Accident check
+No issues reported",Personal,1.0,FL
+678,2010,9950,Prius,123254,"Accident check
+No issues reported",Personal,1.0,TX
+679,2013,13950,Prius Three,101877,"Accident check
+No issues reported",Commercial,2.0,CA
+680,2018,24500,Prius Two FWD,55829,"Accident check
+No issues reported",Personal,2.0,IN
+681,2010,10400,Prius,122124,"Accident check
+1Accident reported",Personal,2.0,WA
+682,2012,11495,Prius Four,127861,"Accident check
+No issues reported",Personal,1.0,NY
+683,2010,6499,Prius,188600,"Accident check
+No issues reported",Personal,2.0,NH
+684,2012,7995,Prius Two,176389,"Accident check
+No issues reported",Personal,1.0,UT
+685,2010,11995,Prius,71342,"Accident check
+1Accident reported",Personal,2.0,OH
+686,2014,15498,Prius Two,59435,"Accident check
+No issues reported",Personal,1.0,FL
+687,2008,8999,Prius,115227,"Accident check
+No issues reported",Personal,6.0,CA
+688,2013,12701,Prius Three,104101,"Accident check
+No issues reported",Personal,2.0,TX
+690,2017,17995,Prius Two FWD,108925,"Accident check
+No issues reported",Personal,1.0,UT
+691,2015,19255,Prius Two,50872,"Accident check
+No issues reported",Personal,4.0,VA
+692,2006,4900,Prius FWD,200443,"Accident check
+No issues reported",Personal,2.0,MN
+693,2020,25682,Prius LE FWD,42526,"Accident check
+No issues reported",Personal,1.0,FL
+694,2007,4950,Prius,199044,"Accident check
+No issues reported",Personal,2.0,MO
+695,2007,7795,Prius FWD,125512,"Accident check
+1Accident reported",Personal,1.0,IL
+696,2013,11500,Prius Three,119457,"Accident check
+No issues reported",Personal,2.0,GA
+697,2013,10200,Prius Five,142096,"Accident check
+1Accident reported",Personal,2.0,NJ
+698,2018,27025,Prius Four FWD,42292,"Accident check
+No issues reported",Personal,1.0,PA
+699,2018,17990,Prius Two Eco FWD,105632,"Accident check
+No issues reported",Personal,2.0,NJ
+700,2007,4995,Prius,193712,"Accident check
+3Accidents reported",Personal,1.0,IL
+701,2020,23045,Prius L Eco FWD,33454,"Accident check
+No issues reported",Commercial,1.0,FL
+702,2007,7950,Prius,143269,"Accident check
+1Accident reported",Personal,1.0,CA
+703,2006,4495,Prius FWD,196169,"Accident check
+1Accident reported",Personal,1.0,PA
+704,2008,6995,Prius,148652,"Accident check
+No issues reported",Commercial,2.0,CA
+705,2012,8995,Prius Two,166723,"Accident check
+No issues reported",Personal,3.0,MN
+706,2008,7477,Prius,116000,"Accident check
+1Accident reported",Personal,2.0,AZ
+708,2004,6995,Prius FWD,123276,"Accident check
+No issues reported",Personal,2.0,WA
+709,2009,7995,Prius Touring FWD,104691,"Accident check
+1Accident reported",Personal,2.0,IL
+710,2014,12799,Prius Four,122879,"Accident check
+No issues reported",Personal,2.0,MD
+711,2007,4800,Prius,217979,"Accident check
+No issues reported",Personal,2.0,MA
+712,2016,16800,Prius Two FWD,108987,"Accident check
+No issues reported",Personal,1.0,CA
+713,2008,7995,Prius Touring FWD,103867,"Accident check
+No issues reported",Personal,2.0,VA
+715,2017,21500,Prius Three Touring FWD,71169,"Accident check
+No issues reported",Personal,1.0,FL
+716,2007,7995,Prius Touring FWD,100596,"Accident check
+No issues reported",Personal,2.0,VA
+717,2015,18950,Prius Two,59363,"Accident check
+No issues reported",Personal,1.0,AZ
+718,2010,8990,Prius,148635,"Accident check
+1Accident reported",Personal,4.0,NC
+719,2010,6990,Prius,170146,"Accident check
+1Accident reported",Personal,3.0,FL
+720,2007,6995,Prius Touring FWD,116126,"Accident check
+1Accident reported",Personal,2.0,NY
+721,2008,7990,Prius Touring FWD,99635,"Accident check
+No issues reported",Personal,4.0,TX
+722,2013,11995,Prius,112913,"Accident check
+No issues reported",Personal,1.0,NY
+723,2010,10900,Prius,98854,"Accident check
+No issues reported",Personal,3.0,PA
+724,2010,7999,Prius,177356,"Accident check
+2Accidents reported",Personal,3.0,CA
+725,2007,7991,Prius FWD,162400,"Accident check
+No issues reported",Personal,2.0,OR
+726,2012,11995,Prius,103278,"Accident check
+No issues reported",Personal,1.0,MI
+727,2013,15975,Prius,80403,"Accident check
+1Accident reported",Personal,3.0,WA
+728,2013,7477,Prius Persona Series SE,185000,"Accident check
+1Accident reported",Personal,2.0,AZ
+729,2019,26465,Prius L Eco FWD,18649,"Accident check
+No issues reported",Personal,1.0,FL
+730,2013,16095,Prius Five,63500,"Accident check
+No issues reported",Personal,1.0,CO
+731,2014,12950,Prius Three,139515,"Accident check
+No issues reported",Personal,2.0,CA
+732,2017,15900,Prius Two FWD,145166,"Accident check
+1Accident reported",Personal,1.0,CA
+733,2015,18995,Prius Four,75496,"Accident check
+No issues reported",Personal,2.0,WA
+734,2014,15960,Prius Two,88025,"Accident check
+No issues reported",Personal,3.0,IN
+735,2010,10995,Prius,103961,"Accident check
+No issues reported",Personal,3.0,IL
+736,2020,24999,Prius LE FWD,43926,"Accident check
+No issues reported",Commercial,2.0,FL
+737,2013,10995,Prius Three,137806,"Accident check
+No issues reported",Commercial,2.0,MD
+738,2011,13967,Prius Three,37355,"Accident check
+No issues reported",Personal,2.0,VA
+739,2009,6977,Prius,173273,"Accident check
+No issues reported",Personal,2.0,CO
+740,2010,9690,Prius,146256,"Accident check
+No issues reported",Personal,2.0,GA
+741,2010,10900,Prius,93976,"Accident check
+No issues reported",Personal,1.0,FL
+742,2018,26588,Prius Two FWD,47131,"Accident check
+No issues reported",Personal,1.0,CA
+743,2007,6995,Prius,148475,"Accident check
+1Accident reported",Personal,2.0,NC
+744,2009,7495,Prius,183869,"Accident check
+No issues reported",Personal,2.0,WA
+745,2008,6495,Prius,160156,"Accident check
+No issues reported",Personal,1.0,VA
+746,2008,9995,Prius Touring FWD,91279,"Accident check
+No issues reported",Personal,4.0,WA
+747,2013,11995,Prius,127285,"Accident check
+No issues reported",Personal,1.0,VA
+748,2010,5899,Prius,254933,"Accident check
+No issues reported",Personal,1.0,OR
+749,2015,12250,Prius Two,151100,"Accident check
+1Accident reported",Personal,3.0,CA
+750,2014,10900,Prius Two,121685,"Accident check
+1Accident reported",Personal,3.0,FL
+751,2008,7980,Prius,117736,"Accident check
+1Accident reported",Personal,2.0,IN
+752,2013,13819,Prius Four,82617,"Accident check
+1Accident reported",Personal,2.0,VA
+753,2011,13301,Prius,57947,"Accident check
+No issues reported",Personal,1.0,IL
+754,2016,17991,Prius Three Touring FWD,112666,"Accident check
+No issues reported",Personal,2.0,CA
+755,2013,13650,Prius Three,107962,"Accident check
+No issues reported",Personal,2.0,NV
+756,2010,10517,Prius,97210,"Accident check
+No issues reported",Personal,3.0,AZ
+757,2010,5995,Prius,195750,"Accident check
+No issues reported",Personal,2.0,FL
+758,2019,23991,Prius LE FWD,79996,"Accident check
+No issues reported",Personal,1.0,CA
+759,2012,8900,Prius Two,173300,"Accident check
+No issues reported",Personal,3.0,CA
+760,2019,22798,Prius XLE FWD,79084,"Accident check
+No issues reported",Personal,1.0,FL
+761,2011,10495,Prius,132574,"Accident check
+No issues reported",Personal,2.0,WA
+762,2008,6999,Prius Liftback FWD,130115,"Accident check
+2Accidents reported",Personal,3.0,CA
+763,2019,27849,Prius XLE FWD,16170,"Accident check
+No issues reported",Personal,2.0,GA
+764,2010,4995,Prius,224495,"Accident check
+1Accident reported",Commercial,2.0,GA
+765,2010,10495,Prius,144483,"Accident check
+No issues reported",Personal,2.0,CA
+766,2007,7995,Prius Touring FWD,142610,"Accident check
+No issues reported",Personal,1.0,CA
+767,2005,6495,Prius FWD,120597,"Accident check
+No issues reported",Personal,1.0,VA
+768,2014,16995,Prius Two,68823,"Accident check
+No issues reported",Personal,1.0,CA
+769,2010,11597,Prius Three,100090,"Accident check
+No issues reported",Personal,3.0,MN
+770,2005,6295,Prius FWD,129488,"Accident check
+No issues reported",Personal,2.0,VA
+771,2017,19951,Prius Four FWD,104559,"Accident check
+No issues reported",Personal,1.0,CA
+773,2022,33988,Prius,5887,"Accident check
+No issues reported",Personal,1.0,MO
+774,2007,6995,Prius,150366,"Accident check
+No issues reported",Personal,2.0,WI
+776,2017,19999,Prius Two FWD,78513,"Accident check
+1Accident reported",Commercial,3.0,NC
+779,2013,10995,Prius Persona Series SE,122060,"Accident check
+1Accident reported",Personal,4.0,AZ
+780,2015,21998,Prius Persona Series,32827,"Accident check
+No issues reported",Personal,1.0,CA
+782,2009,5500,Prius Touring FWD,165345,"Accident check
+1Accident reported",Personal,1.0,AR
+784,2012,11900,Prius,116129,"Accident check
+2Accidents reported",Personal,1.0,MO
+785,2019,25555,Prius L Eco FWD,44544,"Accident check
+No issues reported",Personal,1.0,CA
+787,2014,13500,Prius Three,100232,"Accident check
+1Accident reported",Commercial,3.0,IL
+788,2018,24990,Prius Two FWD,60584,"Accident check
+No issues reported",Personal,1.0,CA
+789,2018,27988,Prius One FWD,21690,"Accident check
+No issues reported",Personal,1.0,CA
+791,2011,8495,Prius Three,159022,"Accident check
+No issues reported",Personal,1.0,MD
+794,2012,11490,Prius Three,100468,"Accident check
+2Accidents reported",Personal,3.0,MD
+797,2016,18990,Prius Three Touring FWD,99494,"Accident check
+No issues reported",Commercial,1.0,CA
+799,2015,15500,Prius Four,117077,"Accident check
+1Accident reported",Personal,2.0,IN
+800,2006,5495,Prius FWD,165152,"Accident check
+No issues reported",Personal,3.0,VA
+802,2018,28133,Prius Three FWD,35165,"Accident check
+No issues reported",Personal,1.0,MO
+803,2005,5990,Prius FWD,134652,"Accident check
+No issues reported",Personal,4.0,IL
+804,2016,21997,Prius Two Eco FWD,40521,"Accident check
+No issues reported",Personal,2.0,CA
+806,2017,26500,Prius Four Touring FWD,41376,"Accident check
+No issues reported",Personal,1.0,OR
+807,2007,6800,Prius,124793,"Accident check
+No issues reported",Personal,1.0,WI
+808,2011,8995,Prius Four,139902,"Accident check
+1Accident reported",Personal,3.0,GA
+810,2015,19190,Prius Four,49899,"Accident check
+1Accident reported",Personal,2.0,IL
+812,2012,11994,Prius Four,122508,"Accident check
+No issues reported",Personal,3.0,CT
+813,2013,9499,Prius Two,161607,"Accident check
+No issues reported",Personal,2.0,VA
+814,2013,10990,Prius Two,134161,"Accident check
+No issues reported",Commercial,3.0,FL
+815,2013,14000,Prius Three,74596,"Accident check
+2Accidents reported",Personal,1.0,MA
+817,2008,7900,Prius Touring FWD,145758,"Accident check
+No issues reported",Commercial,2.0,OR
+818,2015,16995,Prius Two,89555,"Accident check
+No issues reported",Personal,2.0,IL
+819,2015,16480,Prius Persona Series,108432,"Accident check
+No issues reported",Personal,2.0,CA
+820,2012,14000,Prius Two,84476,"Accident check
+No issues reported",Personal,1.0,IN
+821,2006,4250,Prius FWD,202000,"Accident check
+No issues reported",Personal,2.0,MO
+822,2009,7500,Prius,134442,"Accident check
+No issues reported",Personal,3.0,MA
+824,2007,2999,Prius,272121,"Accident check
+No issues reported",Personal,6.0,VA
+825,2017,22990,Prius Two FWD,50647,"Accident check
+No issues reported",Personal,1.0,CA
+830,2015,12950,Prius Persona Series,156014,"Accident check
+No issues reported",Personal,3.0,IN
+831,2014,14000,Prius Three,103560,"Accident check
+2Accidents reported",Commercial,4.0,CO
+832,2015,17999,Prius Two,90346,"Accident check
+No issues reported",Commercial,2.0,WA
+834,2018,29000,Prius Four FWD,11266,"Accident check
+1Accident reported",Personal,1.0,TX
+836,2008,5500,Prius Liftback FWD,188000,"Accident check
+No issues reported",Personal,5.0,NC
+837,2006,5399,Prius FWD,200358,"Accident check
+2Accidents reported",Personal,2.0,OR
+838,2007,5995,Prius Touring FWD,158490,"Accident check
+1Accident reported",Personal,1.0,VA
+839,2011,12500,Prius Four,93000,"Accident check
+No issues reported",Personal,2.0,NC
+841,2010,8990,Prius,144480,"Accident check
+1Accident reported",Personal,1.0,TX
+842,2009,6995,Prius Touring FWD,150642,"Accident check
+No issues reported",Personal,2.0,NJ
+843,2012,9995,Prius,145739,"Accident check
+No issues reported",Personal,3.0,AZ
+844,2019,27912,Prius L Eco FWD,18905,"Accident check
+No issues reported",Personal,1.0,IL
+845,2016,20753,Prius Two FWD,70934,"Accident check
+No issues reported",Personal,2.0,TX
+847,2013,12890,Prius Four,101685,"Accident check
+No issues reported",Personal,1.0,CT
+848,2005,6795,Prius FWD,111021,"Accident check
+No issues reported",Personal,1.0,VA
+849,2014,13714,Prius Three,119938,"Accident check
+No issues reported",Commercial,3.0,KS
+850,2018,25990,Prius Three Touring FWD,39080,"Accident check
+No issues reported",Personal,1.0,MT
+851,2006,7750,Prius FWD,121330,"Accident check
+No issues reported",Personal,4.0,TX
+852,2015,17288,Prius Two,86763,"Accident check
+No issues reported",Personal,1.0,TX
+853,2004,4595,Prius FWD,196960,"Accident check
+No issues reported",Personal,4.0,VA
+855,2012,11991,Prius Two,110612,"Accident check
+No issues reported",Personal,2.0,FL
+856,2007,5900,Prius Touring FWD,157000,"Accident check
+No issues reported",Personal,2.0,MO
+857,2015,17995,Prius One,62963,"Accident check
+No issues reported",Personal,1.0,WI
+858,2010,9295,Prius,125724,"Accident check
+No issues reported",Personal,3.0,NY
+859,2017,20233,Prius Two FWD,84960,"Accident check
+No issues reported",Personal,1.0,OH
+860,2014,11995,Prius Five,144725,"Accident check
+No issues reported",Personal,2.0,CA
+861,2015,18995,Prius Persona Series,54122,"Accident check
+No issues reported",Personal,1.0,TX
+862,2017,18995,Prius Two FWD,96802,"Accident check
+1Accident reported",Commercial,2.0,IN
+863,2012,11000,Prius Two,139006,"Accident check
+1Accident reported",Personal,2.0,MI
+864,2014,12999,Prius,131600,"Accident check
+1Accident reported",Commercial,6.0,WA
+866,2012,9999,Prius,114830,"Accident check
+1Accident reported",Commercial,4.0,FL
+867,2008,5950,Prius Liftback FWD,146366,"Accident check
+No issues reported",Personal,2.0,TX
+868,2015,17995,Prius Persona Series,90586,"Accident check
+No issues reported",Personal,2.0,CA
+869,2015,19300,Prius Persona Series,41796,"Accident check
+1Accident reported",Personal,1.0,OH
+870,2008,7500,Prius Touring FWD,110000,"Accident check
+No issues reported",Commercial,3.0,MO
+871,2013,14950,Prius Three,89989,"Accident check
+1Accident reported",Personal,1.0,CA
+873,2012,14500,Prius Two,68378,"Accident check
+1Accident reported",Commercial,2.0,CA
+874,2014,13995,Prius Two,98900,"Accident check
+No issues reported",Personal,2.0,CT
+875,2018,24999,Prius Three FWD,47746,"Accident check
+No issues reported",Commercial,2.0,FL
+877,2012,8950,Prius,148678,"Accident check
+2Accidents reported",Personal,2.0,NC
+878,2011,11999,Prius Five,86899,"Accident check
+No issues reported",Personal,3.0,GA
+880,2012,9995,Prius One,161587,"Accident check
+1Accident reported",Personal,2.0,CA
+881,2013,13450,Prius One,88473,"Accident check
+No issues reported",Personal,4.0,NY
+882,2008,6888,Prius FWD,183335,"Accident check
+No issues reported",Personal,4.0,CA
+884,2011,8995,Prius,157461,"Accident check
+No issues reported",Personal,2.0,SC
+886,2010,7950,Prius,162375,"Accident check
+2Accidents reported",Commercial,6.0,IL
+888,2013,13820,Prius Four,105444,"Accident check
+No issues reported",Personal,1.0,WI
+889,2019,28791,Prius LE AWD-e,17112,"Accident check
+No issues reported",Personal,1.0,CA
+890,2012,11900,Prius Three,108397,"Accident check
+No issues reported",Personal,2.0,FL
+891,2012,11997,Prius Three,130102,"Accident check
+No issues reported",Personal,3.0,WA
+892,2015,18998,Prius Persona Series,69572,"Accident check
+No issues reported",Personal,1.0,MN
+893,2013,11495,Prius Two,145465,"Accident check
+No issues reported",Personal,3.0,IN
+894,2005,6500,Prius FWD,146884,"Accident check
+1Accident reported",Personal,3.0,CA
+895,2012,13960,Prius Four,108926,"Accident check
+No issues reported",Personal,2.0,IN
+896,2013,15357,Prius Four,92724,"Accident check
+No issues reported",Personal,2.0,OH
+897,2014,9989,Prius Two,159636,"Accident check
+1Accident reported",Personal,2.0,TN
+898,2007,5998,Prius Touring FWD,155000,"Accident check
+No issues reported",Personal,3.0,GA
+899,2012,12321,Prius Two,95410,"Accident check
+No issues reported",Personal,3.0,FL
+900,2012,16664,Prius Four,50333,"Accident check
+No issues reported",Personal,2.0,OH
+903,2014,17299,Prius Two,47218,"Accident check
+No issues reported",Personal,3.0,CA
+904,2007,4997,Prius,196007,"Accident check
+1Accident reported",Personal,2.0,MA
+906,2015,19992,Prius Two,61337,"Accident check
+No issues reported",Personal,1.0,WA
+909,2011,9499,Prius Two,138499,"Accident check
+No issues reported",Personal,4.0,VA
+910,2008,5995,Prius,181583,"Accident check
+No issues reported",Personal,4.0,KS
+911,2006,7000,Prius FWD,147086,"Accident check
+No issues reported",Personal,2.0,WA
+912,2016,10999,Prius Two Eco FWD,166866,"Accident check
+No issues reported",Personal,1.0,FL
+913,2011,10995,Prius,136531,"Accident check
+No issues reported",Personal,2.0,CA
+914,2012,10995,Prius Four,153759,"Accident check
+No issues reported",Personal,3.0,OR
+915,2010,7995,Prius Five,158000,"Accident check
+1Accident reported",Personal,2.0,FL
+916,2019,25777,Prius L Eco FWD,45224,"Accident check
+No issues reported",Personal,1.0,CA
+917,2009,7584,Prius,145145,"Accident check
+No issues reported",Personal,1.0,PA
+919,2007,5999,Prius FWD,196000,"Accident check
+No issues reported",Personal,2.0,VA
+920,2016,15999,Prius Three FWD,128450,"Accident check
+No issues reported",Personal,2.0,CA
+923,2013,9995,Prius Four,163049,"Accident check
+No issues reported",Personal,1.0,IL
+924,2006,6999,Prius FWD,171267,"Accident check
+1Accident reported",Personal,2.0,OR
+925,2006,4900,Prius FWD,200000,"Accident check
+1Accident reported",Personal,1.0,CA
+926,2011,10751,Prius,114550,"Accident check
+No issues reported",Personal,2.0,FL
+927,2009,7995,Prius,122520,"Accident check
+1Accident reported",Personal,4.0,VA
+928,2008,6596,Prius Touring FWD,138200,"Accident check
+2Accidents reported",Personal,2.0,FL
+929,2017,21987,Prius Four FWD,66393,"Accident check
+No issues reported",Personal,1.0,VA
+931,2021,28999,Prius,50237,"Accident check
+No issues reported",Personal,1.0,CA
+932,2019,31990,Prius Limited FWD,4881,"Accident check
+No issues reported",Personal,1.0,CA
+933,2018,24490,Prius Four FWD,67747,"Accident check
+No issues reported",Personal,1.0,WI
+934,2012,14985,Prius Three,81092,"Accident check
+No issues reported",Personal,2.0,CA
+936,2011,8450,Prius,157000,"Accident check
+1Accident reported",Personal,3.0,TX
+937,2015,16999,Prius Four,91463,"Accident check
+No issues reported",Personal,1.0,PA
+938,2008,7795,Prius Touring FWD,145625,"Accident check
+No issues reported",Personal,1.0,VA
+939,2010,6702,Prius Two,163959,"Accident check
+1Accident reported",Personal,2.0,PA
+942,2021,33989,Prius 2020 Edition FWD,2967,"Accident check
+No issues reported",Personal,1.0,CA
+944,2007,6996,Prius Touring FWD,139916,"Accident check
+No issues reported",Personal,1.0,WI
+945,2010,13950,Prius Three,71210,"Accident check
+No issues reported",Personal,2.0,CA
+946,2010,7999,Prius,175752,"Accident check
+No issues reported",Personal,4.0,CA
+947,2020,25375,Prius L Eco FWD,34762,"Accident check
+No issues reported",Personal,2.0,CA
+948,2008,4995,Prius,204966,"Accident check
+No issues reported",Personal,2.0,NH
+949,2015,14914,Prius Two,109037,"Accident check
+No issues reported",Personal,1.0,CT
+950,2010,8995,Prius Two,150109,"Accident check
+No issues reported",Commercial,3.0,CA
+951,2013,12990,Prius Five,125352,"Accident check
+No issues reported",Personal,4.0,NJ
+953,2015,9995,Prius Three,169115,"Accident check
+1Accident reported",Personal,1.0,TX
+954,2018,29788,Prius Four FWD,13409,"Accident check
+No issues reported",Personal,2.0,WA
+955,2012,12991,Prius Three,116773,"Accident check
+No issues reported",Personal,1.0,NM
+956,2013,12980,Prius One,112048,"Accident check
+No issues reported",Personal,2.0,VA
+957,2010,10495,Prius,126995,"Accident check
+No issues reported",Personal,3.0,CA
+958,2002,4700,Prius FWD,155565,"Accident check
+No issues reported",Personal,3.0,CA
+959,2015,21599,Prius Persona Series,47654,"Accident check
+No issues reported",Personal,1.0,CA
+961,2010,7699,Prius,181210,"Accident check
+No issues reported",Commercial,2.0,MN
+962,2017,18990,Prius One FWD,89210,"Accident check
+No issues reported",Personal,2.0,FL
+963,2012,10500,Prius One,153028,"Accident check
+1Accident reported",Commercial,2.0,NM
+964,2011,9709,Prius Two,122910,"Accident check
+No issues reported",Personal,1.0,MA
+965,2015,20900,Prius Two,53366,"Accident check
+No issues reported",Personal,1.0,CA
+966,2010,11667,Prius,104516,"Accident check
+No issues reported",Commercial,4.0,OR
+967,2013,11081,Prius Four,136680,"Accident check
+No issues reported",Personal,2.0,FL
+968,2010,6995,Prius,205448,"Accident check
+1Accident reported",Personal,8.0,KY
+969,2020,27388,Prius LE FWD,37065,"Accident check
+No issues reported",Personal,1.0,CA
+971,2014,12999,Prius Four,132020,"Accident check
+No issues reported",Personal,1.0,CA
+972,2018,27980,Prius,35806,"Accident check
+No issues reported",Personal,1.0,TN
+974,2014,18390,Prius Four,34968,"Accident check
+No issues reported",Personal,2.0,TX
+975,2016,21750,Prius Three Touring FWD,75038,"Accident check
+No issues reported",Personal,1.0,WA
+976,2012,9495,Prius,155947,"Accident check
+No issues reported",Personal,2.0,TN
+977,2017,15995,Prius One FWD,130374,"Accident check
+2Accidents reported",Commercial,2.0,VA
+978,2009,5495,Prius Touring FWD,173907,"Accident check
+1Accident reported",Personal,2.0,NJ
+980,2009,6995,Prius Liftback FWD,134590,"Accident check
+No issues reported",Personal,1.0,VA
+982,2016,17949,Prius Two Eco FWD,102576,"Accident check
+No issues reported",Personal,2.0,CO
+983,2012,9995,Prius Two,131438,"Accident check
+1Accident reported",Personal,2.0,NY
+984,2010,8488,Prius,162371,"Accident check
+No issues reported",Personal,2.0,IL
+985,2014,13840,Prius Two,139529,"Accident check
+No issues reported",Personal,2.0,CA
+987,2011,11000,Prius One,90970,"Accident check
+1Accident reported",Personal,1.0,MO
+988,2008,5500,Prius,223540,"Accident check
+No issues reported",Personal,1.0,OR
+989,2015,15715,Prius Persona Series,115758,"Accident check
+No issues reported",Personal,3.0,SC
+990,2013,11290,Prius Two,128988,"Accident check
+No issues reported",Personal,2.0,NJ
+991,2010,12999,Prius,88614,"Accident check
+No issues reported",Personal,2.0,CA
+993,2012,12495,Prius Two,116687,"Accident check
+No issues reported",Personal,3.0,CA
+994,2011,8999,Prius,162674,"Accident check
+1Accident reported",Personal,1.0,CA
+995,2014,12499,Prius Four,140409,"Accident check
+No issues reported",Personal,1.0,CO
+996,2020,29998,Prius LE AWD-e,27341,"Accident check
+No issues reported",Personal,1.0,CA
+997,2012,11995,Prius,125808,"Accident check
+No issues reported",Personal,2.0,WA
+998,2007,7999,Prius Touring FWD,94471,"Accident check
+No issues reported",Personal,1.0,MA
+999,2008,4850,Prius Touring FWD,191724,"Accident check
+3Accidents reported",Personal,2.0,NJ
+1000,2010,8995,Prius Three,155000,"Accident check
+No issues reported",Personal,4.0,IL
+1001,2020,28881,Prius XLE FWD,28447,"Accident check
+No issues reported",Personal,1.0,FL
+1002,2013,5995,Prius One,199173,"Accident check
+2Accidents reported",Personal,2.0,VA
+1003,2016,18999,Prius Two Eco FWD,100044,"Accident check
+No issues reported",Personal,1.0,WA
+1004,2011,9997,Prius Four,127213,"Accident check
+No issues reported",Personal,1.0,FL
+1005,2010,10495,Prius,105766,"Accident check
+No issues reported",Commercial,3.0,VA
+1006,2013,10862,Prius Five,168091,"Accident check
+1Accident reported",Commercial,2.0,IN
+1008,2015,14950,Prius Two,128576,"Accident check
+No issues reported",Personal,2.0,CA
+1009,2018,23731,Prius Two FWD,60050,"Accident check
+1Accident reported",Personal,1.0,WI
+1010,2016,16000,Prius Four FWD,151717,"Accident check
+No issues reported",Personal,2.0,OH
+1011,2006,5885,Prius FWD,137814,"Accident check
+1Accident reported",Personal,3.0,NJ
+1013,2009,9800,Prius,104459,"Accident check
+No issues reported",Personal,1.0,IN
+1014,2007,5900,Prius Touring FWD,214986,"Accident check
+No issues reported",Personal,1.0,OR
+1015,2009,8669,Prius,125461,"Accident check
+No issues reported",Commercial,4.0,NC
+1016,2007,8251,Prius,135060,"Accident check
+1Accident reported",Personal,3.0,CA
+1017,2006,4999,Prius FWD,202368,"Accident check
+4Accidents reported",Commercial,3.0,TN
+1018,2009,5994,Prius Liftback FWD,176028,"Accident check
+No issues reported",Personal,2.0,NC
+1019,2021,34200,Prius XLE AWD-e,12880,"Accident check
+No issues reported",Personal,1.0,OR
+1020,2012,12999,Prius Two,107271,"Accident check
+No issues reported",Personal,2.0,CA
+1021,2010,8700,Prius,156197,"Accident check
+No issues reported",Personal,8.0,MO
+1022,2016,23990,Prius Four FWD,42077,"Accident check
+No issues reported",Personal,1.0,CO
+1023,2008,8995,Prius,107856,"Accident check
+No issues reported",Personal,2.0,CA
+1025,2012,12977,Prius,105075,"Accident check
+No issues reported",Personal,1.0,OR
+1026,2007,5950,Prius Touring FWD,144062,"Accident check
+No issues reported",Commercial,2.0,TX
+1027,2013,9950,Prius Three,167100,"Accident check
+1Accident reported",Personal,3.0,IL
+1030,2015,17995,Prius Persona Series,93273,"Accident check
+No issues reported",Personal,1.0,CA
+1031,2010,11100,Prius,103383,"Accident check
+No issues reported",Personal,2.0,CA
+1032,2019,29991,Prius L Eco FWD,13070,"Accident check
+No issues reported",Personal,1.0,WA
+1033,2010,8900,Prius,133010,"Accident check
+No issues reported",Personal,1.0,TN
+1034,2007,5695,Prius Touring FWD,160368,"Accident check
+No issues reported",Personal,3.0,MA
+1035,2009,7377,Prius Touring FWD,162673,"Accident check
+1Accident reported",Personal,1.0,CA
+1036,2012,5490,Prius,216156,"Accident check
+No issues reported",Personal,2.0,FL
+1037,2015,22350,Prius Two,31499,"Accident check
+No issues reported",Personal,2.0,CA
+1038,2011,7650,Prius Two,174210,"Accident check
+1Accident reported",Personal,3.0,TX
+1039,2005,6999,Prius FWD,132769,"Accident check
+1Accident reported",Personal,3.0,CO
+1040,2015,18995,Prius Persona Series,69917,"Accident check
+No issues reported",Personal,3.0,OK
+1041,2007,5199,Prius Touring FWD,196278,"Accident check
+No issues reported",Personal,3.0,TN
+1042,2017,21990,Prius Two FWD,63824,"Accident check
+No issues reported",Personal,1.0,IL
+1043,2018,26999,Prius Two FWD,23000,"Accident check
+No issues reported",Personal,2.0,CA
+1045,2016,22999,Prius Three FWD,40461,"Accident check
+No issues reported",Personal,1.0,IL
+1046,2018,23881,Prius Four FWD,51927,"Accident check
+No issues reported",Personal,1.0,FL
+1047,2013,11990,Prius Five,159000,"Accident check
+No issues reported",Personal,3.0,CA
+1048,2009,7000,Prius,164034,"Accident check
+No issues reported",Personal,2.0,CT
+1049,2010,9500,Prius,129801,"Accident check
+No issues reported",Personal,1.0,VA
+1050,2011,7299,Prius Four,183000,"Accident check
+No issues reported",Personal,3.0,MA
+1051,2008,6700,Prius Liftback FWD,127662,"Accident check
+No issues reported",Personal,2.0,MA
+1052,2015,17499,Prius Four,63500,"Accident check
+No issues reported",Personal,1.0,NJ
+1053,2015,16560,Prius Two,107514,"Accident check
+No issues reported",Personal,1.0,IN
+1055,2010,6995,Prius,190683,"Accident check
+1Accident reported",Personal,2.0,NH
+1056,2011,14000,Prius Two,46240,"Accident check
+No issues reported",Personal,1.0,VA
+1057,2008,8950,Prius Touring FWD,89788,"Accident check
+No issues reported",Personal,3.0,NC
+1058,2008,9490,Prius,77838,"Accident check
+No issues reported",Personal,4.0,IL
+1059,2010,8295,Prius Four,173584,"Accident check
+1Accident reported",Personal,2.0,GA
+1061,2009,6995,Prius,166213,"Accident check
+No issues reported",Commercial,3.0,VA
+1062,2007,6995,Prius,145446,"Accident check
+1Accident reported",Personal,3.0,OH
+1063,2016,17985,Prius Three FWD,104976,"Accident check
+No issues reported",Personal,2.0,CA
+1064,2017,23477,Prius Two FWD,54499,"Accident check
+No issues reported",Personal,1.0,WI
+1065,2014,14784,Prius Five,98202,"Accident check
+1Accident reported",Personal,3.0,VA
+1066,2010,6495,Prius,182779,"Accident check
+2Accidents reported",Personal,5.0,VA
+1067,2014,12900,Prius Two,150534,"Accident check
+No issues reported",Personal,3.0,CA
+1068,2010,7998,Prius,161782,"Accident check
+1Accident reported",Personal,2.0,TX
+1070,2011,4995,Prius Five,274199,"Accident check
+No issues reported",Personal,8.0,CA
+1071,2013,7995,Prius Five,203195,"Accident check
+No issues reported",Personal,1.0,TX
+1072,2013,11495,Prius Three,156311,"Accident check
+No issues reported",Commercial,4.0,CA
+1073,2007,4995,Prius,210461,"Accident check
+1Accident reported",Commercial,3.0,MI
+1074,2010,5495,Prius,221380,"Accident check
+No issues reported",Personal,4.0,VA
+1075,2015,17984,Prius Two,84743,"Accident check
+No issues reported",Personal,1.0,NY
+1076,2010,9995,Prius,168000,"Accident check
+No issues reported",Personal,2.0,OR
+1078,2012,7995,Prius One,160691,"Accident check
+1Accident reported",Personal,2.0,TN
+1079,2020,29949,Prius,18735,"Accident check
+No issues reported",Personal,1.0,WA
+1080,2018,15495,Prius Three Touring FWD,155669,"Accident check
+1Accident reported",Personal,1.0,CA
+1081,2015,19500,Prius Persona Series,62363,"Accident check
+No issues reported",Personal,1.0,GA
+1082,2015,18630,Prius Persona Series,88091,"Accident check
+No issues reported",Personal,2.0,OR
+1083,2017,22768,Prius Two FWD,48986,"Accident check
+No issues reported",Personal,1.0,IL
+1084,2012,17598,Prius Four,69675,"Accident check
+No issues reported",Personal,4.0,CA
+1085,2008,8069,Prius,118976,"Accident check
+No issues reported",Personal,2.0,SC
+1086,2013,15850,Prius,75238,"Accident check
+No issues reported",Personal,3.0,MO
+1087,2010,12099,Prius,83986,"Accident check
+1Accident reported",Personal,2.0,CO
+1088,2012,11520,Prius Two,130439,"Accident check
+No issues reported",Personal,1.0,GA
+1089,2010,9299,Prius Three,159515,"Accident check
+No issues reported",Personal,2.0,CO
+1090,2007,8995,Prius,104508,"Accident check
+No issues reported",Personal,1.0,CA
+1091,2015,16980,Prius Persona Series,104817,"Accident check
+No issues reported",Personal,1.0,CO
+1092,2008,8988,Prius Touring FWD,133057,"Accident check
+No issues reported",Commercial,3.0,WA
+1093,2015,19245,Prius,67944,"Accident check
+No issues reported",Personal,2.0,CA
+1094,2017,18499,Prius,107389,"Accident check
+No issues reported",Personal,1.0,WI
+1095,2011,8650,Prius Two,164215,"Accident check
+No issues reported",Commercial,3.0,NC
+1096,2021,30800,Prius XLE AWD-e,28722,"Accident check
+No issues reported",Personal,1.0,NY
+1097,2018,22995,Prius Two FWD,58579,"Accident check
+No issues reported",Commercial,2.0,MD
+1098,2013,12910,Prius Three,114916,"Accident check
+No issues reported",Personal,1.0,MD
+1099,2008,8999,Prius,79820,"Accident check
+No issues reported",Commercial,3.0,PA
+1101,2007,5995,Prius Touring FWD,161287,"Accident check
+No issues reported",Personal,2.0,MA
+1102,2011,3499,Prius One,243431,"Accident check
+1Accident reported",Personal,3.0,OH
+1103,2019,23227,Prius L Eco FWD,70490,"Accident check
+No issues reported",Commercial,1.0,TX
+1104,2015,17900,Prius Persona Series,83000,"Accident check
+No issues reported",Personal,1.0,MI
+1105,2007,6990,Prius Touring FWD,145020,"Accident check
+2Accidents reported",Personal,4.0,GA
+1106,2014,13053,Prius Two,141216,"Accident check
+No issues reported",Personal,1.0,IA
+1107,2015,19130,Prius Persona Series,81075,"Accident check
+No issues reported",Personal,2.0,CA
+1108,2010,8995,Prius,134695,"Accident check
+No issues reported",Personal,4.0,OH
+1109,2008,7995,Prius,149065,"Accident check
+No issues reported",Personal,1.0,WI
+1110,2009,7500,Prius,159481,"Accident check
+No issues reported",Personal,2.0,GA
+1111,2016,20998,Prius Three FWD,60172,"Accident check
+No issues reported",Personal,1.0,SC
+1112,2007,7000,Prius Touring FWD,132000,"Accident check
+No issues reported",Personal,2.0,NC
+1113,2017,15185,Prius Two FWD,170990,"Accident check
+No issues reported",Personal,1.0,CA
+1114,2012,14576,Prius Two,83338,"Accident check
+No issues reported",Personal,1.0,CO
+1115,2013,12995,Prius Two,114695,"Accident check
+No issues reported",Personal,3.0,CA
+1116,2018,30500,Prius Four Touring FWD,18659,"Accident check
+No issues reported",Personal,1.0,WA
+1117,2005,5295,Prius FWD,186668,"Accident check
+No issues reported",Personal,2.0,VA
+1118,2010,8500,Prius Two,164000,"Accident check
+No issues reported",Personal,2.0,CO
+1119,2009,7999,Prius Touring FWD,169125,"Accident check
+No issues reported",Personal,3.0,WA
+1120,2013,13498,Prius Three,98222,"Accident check
+1Accident reported",Personal,2.0,CA
+1121,2010,13400,Prius Three,68070,"Accident check
+No issues reported",Personal,1.0,MD
+1122,2013,13990,Prius One,99840,"Accident check
+No issues reported",Commercial,1.0,CA
+1124,2010,12750,Prius Four,108521,"Accident check
+No issues reported",Personal,1.0,NV
+1125,2013,13984,Prius Four,101052,"Accident check
+No issues reported",Personal,1.0,PA
+1126,2010,8500,Prius One,144135,"Accident check
+No issues reported",Personal,1.0,TN
+1127,2014,16995,Prius Two,88910,"Accident check
+No issues reported",Personal,2.0,CA
+1129,2010,11995,Prius,104296,"Accident check
+No issues reported",Personal,1.0,CA
+1130,2010,9497,Prius,135987,"Accident check
+No issues reported",Personal,1.0,PA
+1131,2015,16988,Prius Two,98816,"Accident check
+No issues reported",Personal,1.0,NC
+1132,2018,24988,Prius Two FWD,34987,"Accident check
+No issues reported",Personal,1.0,CA
+1134,2014,17536,Prius Four,65840,"Accident check
+2Accidents reported",Personal,3.0,IN
+1135,2014,12899,Prius Two,118030,"Accident check
+1Accident reported",Commercial,3.0,TX
+1136,2005,5950,Prius FWD,159871,"Accident check
+No issues reported",Personal,5.0,OK
+1137,2009,9998,Prius,90788,"Accident check
+No issues reported",Personal,1.0,TN
+1138,2017,19999,Prius,89223,"Accident check
+No issues reported",Commercial,1.0,CO
+1139,2011,8997,Prius Four,168747,"Accident check
+No issues reported",Personal,3.0,CA
+1140,2013,9999,Prius Three,159381,"Accident check
+No issues reported",Personal,2.0,FL
+1141,2010,8900,Prius,176688,"Accident check
+No issues reported",Personal,1.0,OR
+1142,2008,8500,Prius Touring FWD,100018,"Accident check
+No issues reported",Personal,5.0,VA
+1143,2010,7499,Prius,176039,"Accident check
+No issues reported",Personal,2.0,FL
+1144,2015,14995,Prius Persona Series,126407,"Accident check
+No issues reported",Personal,2.0,FL
+1145,2010,7800,Prius One,168220,"Accident check
+1Accident reported",Commercial,2.0,FL
+1146,2014,16995,Prius Two,71446,"Accident check
+No issues reported",Personal,2.0,ID
+1147,2021,30900,Prius 2020 Edition FWD,29659,"Accident check
+No issues reported",Personal,1.0,FL
+1148,2010,10490,Prius,94940,"Accident check
+1Accident reported",Personal,1.0,NY
+1149,2015,18388,Prius Two,80531,"Accident check
+No issues reported",Personal,2.0,CA
+1150,2009,7999,Prius Touring FWD,119989,"Accident check
+No issues reported",Personal,2.0,FL
+1151,2014,13995,Prius One,103119,"Accident check
+No issues reported",Personal,3.0,CO
+1152,2014,18488,Prius Two,32923,"Accident check
+No issues reported",Personal,2.0,AZ
+1153,2015,16499,Prius One,113995,"Accident check
+No issues reported",Personal,2.0,CA
+1154,2005,4299,Prius FWD,209005,"Accident check
+No issues reported",Personal,2.0,TN
+1155,2010,7495,Prius Four,187000,"Accident check
+No issues reported",Personal,2.0,VA
+1156,2013,11180,Prius Three,154143,"Accident check
+1Accident reported",Personal,4.0,NV
+1157,2008,6700,Prius Liftback FWD,117900,"Accident check
+No issues reported",Personal,4.0,GA
+1158,2015,13200,Prius Four,153367,"Accident check
+No issues reported",Personal,2.0,GA
+1159,2017,26991,Prius Four FWD,22570,"Accident check
+No issues reported",Personal,1.0,CA
+1160,2004,4995,Prius FWD,199813,"Accident check
+No issues reported",Personal,2.0,VA
+1161,2015,16807,Prius Two,84249,"Accident check
+No issues reported",Personal,2.0,UT
+1162,2017,20990,Prius Two FWD,82673,"Accident check
+No issues reported",Personal,1.0,CA
+1163,2008,6100,Prius FWD,176525,"Accident check
+No issues reported",Personal,5.0,WA
+1164,2014,14999,Prius Four,92863,"Accident check
+No issues reported",Personal,1.0,NC
+1165,2011,9998,Prius Two,129665,"Accident check
+No issues reported",Personal,1.0,MI
+1166,2012,10500,Prius Two,126174,"Accident check
+1Accident reported",Commercial,3.0,AZ
+1167,2012,8995,Prius One,153545,"Accident check
+No issues reported",Personal,1.0,VA
+1168,2007,7990,Prius Touring FWD,107715,"Accident check
+No issues reported",Personal,4.0,PA
+1169,2005,5200,Prius FWD,182481,"Accident check
+No issues reported",Personal,1.0,MA
+1170,2007,6999,Prius,161500,"Accident check
+1Accident reported",Personal,1.0,CA
+1171,2015,16990,Prius Two,84576,"Accident check
+1Accident reported",Personal,1.0,CA
+1172,2006,5500,Prius FWD,169000,"Accident check
+No issues reported",Personal,4.0,MO
+1173,2013,8900,Prius Five,193552,"Accident check
+No issues reported",Personal,1.0,FL
+1174,2007,7495,Prius Touring FWD,152558,"Accident check
+1Accident reported",Personal,2.0,WA
+1175,2012,10522,Prius Two,131804,"Accident check
+2Accidents reported",Commercial,2.0,FL
+1176,2009,7290,Prius,172060,"Accident check
+No issues reported",Personal,1.0,TX
+1177,2008,7500,Prius,137658,"Accident check
+No issues reported",Personal,3.0,OK
+1178,2015,16994,Prius Two,89143,"Accident check
+No issues reported",Personal,2.0,OH
+1179,2014,12995,Prius Four,124691,"Accident check
+No issues reported",Personal,2.0,NY
+1180,2016,19960,Prius Three FWD,83562,"Accident check
+No issues reported",Personal,2.0,IN
+1181,2010,9990,Prius,135038,"Accident check
+1Accident reported",Personal,2.0,CA
+1182,2014,12988,Prius Three,147063,"Accident check
+No issues reported",Personal,1.0,SC
+1183,2022,33971,Prius,6881,"Accident check
+No issues reported",Personal,1.0,TX
+1184,2021,30985,Prius 2020 Edition FWD,5780,"Accident check
+No issues reported",Personal,1.0,MN
+1185,2014,10975,Prius Two,164050,"Accident check
+1Accident reported",Personal,1.0,MN
+1186,2012,9888,Prius Two,147507,"Accident check
+No issues reported",Personal,2.0,MA
+1187,2014,11963,Prius One,136509,"Accident check
+No issues reported",Personal,2.0,PA
+1188,2013,12500,Prius Persona Series SE,129508,"Accident check
+No issues reported",Personal,1.0,NC
+1190,2020,25988,Prius L Eco FWD,22748,"Accident check
+No issues reported",Personal,1.0,AR
+1191,2022,30595,Prius,12120,"Accident check
+No issues reported",Personal,1.0,NC
+1192,2009,8492,Prius Touring FWD,117251,"Accident check
+No issues reported",Personal,1.0,TX
+1193,2015,15900,Prius Persona Series,115333,"Accident check
+No issues reported",Personal,1.0,GA
+1194,2015,18697,Prius Persona Series,85430,"Accident check
+No issues reported",Personal,1.0,CO
+1195,2010,9999,Prius,126000,"Accident check
+No issues reported",Personal,2.0,PA
+1196,2012,10999,Prius Three,134153,"Accident check
+No issues reported",Personal,2.0,TX
+1197,2009,9681,Prius,100328,"Accident check
+No issues reported",Personal,2.0,NC
+1198,2010,10499,Prius,141688,"Accident check
+No issues reported",Personal,3.0,CA
+1199,2012,9599,Prius Two,147656,"Accident check
+1Accident reported",Personal,2.0,FL
+1200,2010,9995,Prius,163089,"Accident check
+No issues reported",Personal,3.0,CA
+1201,2012,12995,Prius Five,86864,"Accident check
+No issues reported",Personal,2.0,VA
+1202,2015,21989,Prius Persona Series,28774,"Accident check
+No issues reported",Personal,1.0,TX
+1203,2010,9995,Prius Four,143519,"Accident check
+No issues reported",Personal,4.0,TX
+1204,2013,16215,Prius Two,41057,"Accident check
+No issues reported",Personal,1.0,IL
+1205,2018,21685,Prius Two FWD,108838,"Accident check
+2Accidents reported",Personal,1.0,CA
+1206,2013,14500,Prius Two,90875,"Accident check
+No issues reported",Personal,4.0,NV
+1207,2013,11480,Prius Three,152100,"Accident check
+2Accidents reported",Personal,1.0,KS
+1208,2015,14988,Prius Persona Series,113859,"Accident check
+1Accident reported",Personal,1.0,NY
+1209,2009,6934,Prius Touring FWD,167945,"Accident check
+1Accident reported",Commercial,2.0,IN
+1210,2010,8995,Prius,151877,"Accident check
+No issues reported",Personal,4.0,AL
+1211,2007,9688,Prius FWD,110032,"Accident check
+No issues reported",Personal,5.0,CA
+1213,2013,12991,Prius One,133117,"Accident check
+1Accident reported",Commercial,2.0,CA
+1214,2010,10992,Prius,126812,"Accident check
+No issues reported",Personal,1.0,TN
+1215,2005,6900,Prius FWD,110606,"Accident check
+2Accidents reported",Personal,4.0,IN
+1216,2021,36998,Prius XLE AWD-e,5854,"Accident check
+No issues reported",Personal,1.0,CA
+1217,2015,6653,Prius Four,247272,"Accident check
+No issues reported",Personal,2.0,IL
+1218,2012,13054,Prius Two,110250,"Accident check
+No issues reported",Personal,2.0,CA
+1220,2021,30988,Prius 2020 Edition FWD,14202,"Accident check
+No issues reported",Personal,1.0,CA
+1221,2008,9500,Prius Touring FWD,69467,"Accident check
+No issues reported",Personal,1.0,FL
+1222,2015,18200,Prius Persona Series,71685,"Accident check
+2Accidents reported",Personal,2.0,OH
+1223,2017,22990,Prius Two FWD,44479,"Accident check
+No issues reported",Commercial,1.0,IL
+1224,2012,16470,Prius Four,55570,"Accident check
+No issues reported",Personal,1.0,CT
+1225,2006,4500,Prius FWD,230000,"Accident check
+1Accident reported",Commercial,3.0,NC
+1226,2012,11991,Prius Two,117397,"Accident check
+No issues reported",Personal,2.0,PA
+1228,2005,7995,Prius FWD,72168,"Accident check
+No issues reported",Personal,3.0,VA
+1229,2011,7895,Prius Three,159822,"Accident check
+1Accident reported",Personal,2.0,MD
+1230,2014,13999,Prius Three,134596,"Accident check
+No issues reported",Personal,2.0,CA
+1231,2010,6995,Prius,185200,"Accident check
+No issues reported",Personal,5.0,VA
+1232,2011,8223,Prius Two,177047,"Accident check
+No issues reported",Personal,2.0,OH
+1233,2015,17999,Prius Two,84677,"Accident check
+2Accidents reported",Personal,1.0,CA
+1234,2008,6450,Prius Touring FWD,159000,"Accident check
+No issues reported",Personal,3.0,NE
+1235,2012,11995,Prius Two,115476,"Accident check
+No issues reported",Personal,2.0,FL
+1236,2013,12975,Prius Three,125056,"Accident check
+No issues reported",Personal,1.0,OH
+1237,2008,4500,Prius Liftback FWD,225966,"Accident check
+1Accident reported",Personal,3.0,VA
+1238,2007,6795,Prius Touring FWD,127273,"Accident check
+No issues reported",Personal,2.0,MA
+1239,2017,18741,Prius One FWD,119345,"Accident check
+No issues reported",Personal,1.0,CA
+1241,2004,6799,Prius FWD,96101,"Accident check
+No issues reported",Personal,1.0,NJ
+1242,2015,16995,Prius Two,110000,"Accident check
+No issues reported",Personal,1.0,CA
+1243,2012,14479,Prius Four,99953,"Accident check
+No issues reported",Personal,2.0,ID
+1244,2002,4997,Prius FWD,132189,"Accident check
+No issues reported",Personal,3.0,MN
+1245,2008,7995,Prius Touring FWD,102194,"Accident check
+1Accident reported",Personal,1.0,NJ
+1246,2018,22289,Prius Four FWD,83024,"Accident check
+No issues reported",Personal,2.0,PA
+1247,2010,13000,Prius,82423,"Accident check
+No issues reported",Personal,3.0,CA
+1248,2017,24995,Prius Four FWD,45429,"Accident check
+No issues reported",Personal,2.0,FL
+1249,2013,8995,Prius Three,174385,"Accident check
+Frame damage reported",Personal,2.0,CA
+1250,2013,17514,Prius Four,73703,"Accident check
+No issues reported",Personal,1.0,CA
+1251,2005,4995,Prius FWD,155241,"Accident check
+1Accident reported",Personal,3.0,NJ
+1252,2006,5975,Prius FWD,206959,"Accident check
+No issues reported",Personal,1.0,OR
+1253,2009,9900,Prius Touring FWD,114616,"Accident check
+No issues reported",Personal,3.0,OR
+1254,2013,14995,Prius Two,63616,"Accident check
+No issues reported",Personal,2.0,CT
+1255,2014,12995,Prius Three,147787,"Accident check
+No issues reported",Personal,1.0,CA
+1256,2016,18688,Prius Two FWD,88402,"Accident check
+No issues reported",Personal,3.0,AZ
+1257,2021,29998,Prius L Eco FWD,13468,"Accident check
+No issues reported",Personal,1.0,CA
+1259,2014,18980,Prius Three,40160,"Accident check
+No issues reported",Personal,1.0,CO
+1260,2013,12500,Prius One,99708,"Accident check
+1Accident reported",Personal,2.0,FL
+1261,2012,10900,Prius Two,153939,"Accident check
+No issues reported",Personal,2.0,TN
+1263,2005,5000,Prius FWD,184256,"Accident check
+No issues reported",Personal,1.0,AR
+1264,2007,7389,Prius,142119,"Accident check
+No issues reported",Personal,2.0,IL
+1265,2011,11500,Prius Three,115722,"Accident check
+No issues reported",Personal,2.0,CA
+1266,2010,12399,Prius,99372,"Accident check
+No issues reported",Personal,4.0,CA
+1267,2010,8494,Prius,159001,"Accident check
+1Accident reported",Personal,3.0,MD
+1268,2016,24663,Prius Four FWD,51189,"Accident check
+No issues reported",Personal,1.0,CA
+1269,2017,21995,Prius Two Eco FWD,61432,"Accident check
+No issues reported",Personal,1.0,NV
+1270,2006,5000,Prius FWD,201556,"Accident check
+1Accident reported",Personal,2.0,AZ
+1271,2010,10399,Prius,122426,"Accident check
+No issues reported",Personal,3.0,FL
+1272,2007,8488,Prius Touring FWD,141390,"Accident check
+No issues reported",Personal,2.0,WA
+1273,2007,5500,Prius,206290,"Accident check
+No issues reported",Commercial,2.0,PA
+1274,2007,9500,Prius FWD,95461,"Accident check
+No issues reported",Personal,2.0,WI
+1275,2012,9899,Prius Three,139485,"Accident check
+No issues reported",Personal,1.0,HI
+1276,2010,10999,Prius,120130,"Accident check
+No issues reported",Personal,2.0,NC
+1278,2016,14998,Prius Two FWD,142011,"Accident check
+No issues reported",Personal,1.0,MN
+1279,2010,7495,Prius,185000,"Accident check
+No issues reported",Personal,2.0,AZ
+1280,2010,9388,Prius,167850,"Accident check
+No issues reported",Personal,2.0,CA
+1281,2018,18876,Prius Four FWD,120708,"Accident check
+No issues reported",Personal,1.0,PA
+1282,2010,7995,Prius,176705,"Accident check
+No issues reported",Personal,2.0,MD
+1283,2020,26990,Prius L Eco FWD,18433,"Accident check
+1Accident reported",Personal,1.0,NC
+1284,2014,14090,Prius Two,110413,"Accident check
+No issues reported",Personal,1.0,TX
+1285,2010,11991,Prius,102838,"Accident check
+No issues reported",Personal,2.0,OR
+1286,2009,7995,Prius,130378,"Accident check
+1Accident reported",Personal,2.0,MA
+1287,2013,5700,Prius Three,256000,"Accident check
+2Accidents reported",Personal,2.0,MO
+1288,2007,7499,Prius,150614,"Accident check
+1Accident reported",Commercial,3.0,IN
+1290,2008,6950,Prius Touring FWD,175343,"Accident check
+2Accidents reported",Personal,1.0,CA
+1291,2009,8400,Prius,132342,"Accident check
+No issues reported",Personal,1.0,VA
+1293,2014,12750,Prius,136350,"Accident check
+No issues reported",Personal,4.0,NJ
+1294,2017,21995,Prius One FWD,60128,"Accident check
+No issues reported",Personal,2.0,CA
+1295,2010,11500,Prius,98801,"Accident check
+No issues reported",Personal,1.0,NC
+1296,2016,23944,Prius Four FWD,56329,"Accident check
+No issues reported",Personal,2.0,CO
+1297,2010,9995,Prius,121463,"Accident check
+No issues reported",Personal,1.0,IL
+1298,2006,7695,Prius FWD,139401,"Accident check
+No issues reported",Personal,1.0,VA
+1299,2018,23495,Prius Two FWD,77763,"Accident check
+No issues reported",Personal,1.0,NY
+1300,2010,7900,Prius,172078,"Accident check
+No issues reported",Personal,3.0,TN
+1301,2015,13242,Prius Two,133882,"Accident check
+1Accident reported",Personal,1.0,NC
+1302,2019,29862,Prius LE AWD-e,3414,"Accident check
+No issues reported",Personal,2.0,WI
+1303,2017,19990,Prius Four FWD,88000,"Accident check
+2Accidents reported",Personal,1.0,SC
+1305,2014,15495,Prius Three,86157,"Accident check
+No issues reported",Personal,2.0,FL
+1306,2013,11995,Prius Three,127159,"Accident check
+No issues reported",Personal,1.0,GA
+1307,2018,24830,Prius Two FWD,63506,"Accident check
+No issues reported",Personal,1.0,CA
+1308,2011,12949,Prius Four,82105,"Accident check
+No issues reported",Personal,2.0,TX
+1309,2019,28998,Prius L Eco FWD,14657,"Accident check
+No issues reported",Personal,1.0,MO
+1310,2006,5488,Prius FWD,206894,"Accident check
+No issues reported",Personal,1.0,CA
+1312,2006,4997,Prius FWD,193606,"Accident check
+No issues reported",Personal,2.0,MA
+1313,2010,9900,Prius,135505,"Accident check
+No issues reported",Personal,2.0,FL
+1314,2012,8498,Prius Three,187085,"Accident check
+No issues reported",Personal,2.0,CA
+1315,2018,24937,Prius Two FWD,33107,"Accident check
+1Accident reported",Personal,1.0,NJ
+1316,2008,9991,Prius,105498,"Accident check
+No issues reported",Commercial,2.0,NM
+1317,2015,17629,Prius Three,72773,"Accident check
+1Accident reported",Personal,2.0,OH
+1318,2015,18990,Prius Persona Series,74323,"Accident check
+No issues reported",Personal,3.0,WY
+1319,2017,19988,Prius,106373,"Accident check
+No issues reported",Personal,1.0,IL
+1320,2006,6995,Prius FWD,154820,"Accident check
+No issues reported",Personal,2.0,NC
+1321,2006,7988,Prius FWD,129029,"Accident check
+1Accident reported",Personal,2.0,WA
+1322,2006,7995,Prius FWD,131286,"Accident check
+No issues reported",Personal,2.0,CA
+1323,2017,24287,Prius Four FWD,53775,"Accident check
+No issues reported",Personal,1.0,KS
+1325,2011,9499,Prius Two,151157,"Accident check
+No issues reported",Personal,2.0,AL
+1326,2018,29990,Prius Four Touring FWD,21774,"Accident check
+No issues reported",Personal,1.0,WA
+1327,2015,19299,Prius Two,66240,"Accident check
+No issues reported",Personal,2.0,CA
+1328,2012,9995,Prius,156500,"Accident check
+1Accident reported",Personal,2.0,MO
+1329,2013,15000,Prius Three,83735,"Accident check
+1Accident reported",Personal,2.0,NC
+1330,2011,9000,Prius,159565,"Accident check
+No issues reported",Personal,2.0,AR
+1331,2009,11975,Prius Touring FWD,62785,"Accident check
+No issues reported",Personal,1.0,KY
+1332,2012,6500,Prius,210000,"Accident check
+No issues reported",Personal,1.0,GA
+1333,2011,8950,Prius,161023,"Accident check
+No issues reported",Personal,1.0,NE
+1335,2007,8304,Prius,95668,"Accident check
+1Accident reported",Personal,2.0,OH
+1336,2009,9495,Prius Touring FWD,123645,"Accident check
+No issues reported",Personal,1.0,WA
+1337,2017,24999,Prius Two FWD,42148,"Accident check
+No issues reported",Personal,2.0,CA
+1338,2010,8925,Prius,152152,"Accident check
+2Accidents reported",Personal,2.0,NE
+1339,2012,15995,Prius Three,52614,"Accident check
+No issues reported",Personal,2.0,OK
+1340,2010,10288,Prius,133290,"Accident check
+No issues reported",Personal,2.0,CA
+1341,2007,5995,Prius,199673,"Accident check
+No issues reported",Personal,1.0,VA
+1342,2012,8500,Prius Two,184677,"Accident check
+1Accident reported",Personal,2.0,TX
+1343,2011,11994,Prius,87990,"Accident check
+1Accident reported",Personal,1.0,OH
+1344,2011,7945,Prius Two,184915,"Accident check
+No issues reported",Personal,2.0,CA
+1345,2018,27891,Prius Three FWD,22620,"Accident check
+No issues reported",Personal,1.0,AR
+1346,2020,32775,Prius XLE FWD,7749,"Accident check
+No issues reported",Personal,1.0,CA
+1347,2008,7995,Prius,153245,"Accident check
+No issues reported",Personal,4.0,OR
+1348,2012,12235,Prius Two,108497,"Accident check
+No issues reported",Personal,2.0,MA
+1349,2016,22995,Prius Four Touring FWD,63640,"Accident check
+No issues reported",Personal,2.0,OR
+1350,2018,26490,Prius Three FWD,51058,"Accident check
+No issues reported",Personal,1.0,MI
+1351,2018,27488,Prius Two FWD,26705,"Accident check
+No issues reported",Personal,1.0,CA
+1352,2010,10263,Prius,114418,"Accident check
+1Accident reported",Personal,3.0,VA
+1353,2015,17888,Prius Four,85257,"Accident check
+No issues reported",Personal,2.0,CA
+1354,2010,8999,Prius,145672,"Accident check
+No issues reported",Personal,2.0,TX
+1355,2006,4995,Prius FWD,227500,"Accident check
+No issues reported",Personal,2.0,CA
+1356,2013,12950,Prius Two,117194,"Accident check
+No issues reported",Personal,3.0,IL
+1357,2015,16711,Prius Persona Series,103757,"Accident check
+No issues reported",Personal,2.0,AL
+1358,2014,13999,Prius Three,108975,"Accident check
+2Accidents reported",Personal,1.0,NV
+1359,2008,8988,Prius FWD,102197,"Accident check
+No issues reported",Personal,1.0,TX
+1360,2010,10185,Prius,154074,"Accident check
+No issues reported",Personal,2.0,CA
+1361,2008,5995,Prius Touring FWD,158770,"Accident check
+1Accident reported",Commercial,4.0,NY
+1362,2012,9495,Prius Four,170160,"Accident check
+1Accident reported",Personal,1.0,VA
+1363,2010,11481,Prius,87838,"Accident check
+1Accident reported",Personal,1.0,TX
+1364,2020,24989,Prius LE FWD,54030,"Accident check
+No issues reported",Commercial,1.0,NC
+1365,2019,28995,Prius Limited FWD,40484,"Accident check
+No issues reported",Personal,1.0,TN
+1366,2018,23698,Prius Two FWD,72277,"Accident check
+No issues reported",Personal,1.0,MI
+1367,2015,19700,Prius Persona Series,83958,"Accident check
+No issues reported",Personal,1.0,IL
+1369,2016,16428,Prius Two FWD,129377,"Accident check
+No issues reported",Commercial,2.0,IN
+1370,2008,5900,Prius Liftback FWD,193015,"Accident check
+No issues reported",Personal,2.0,KS
+1371,2010,11100,Prius,107433,"Accident check
+No issues reported",Personal,2.0,VA
+1372,2019,27995,Prius L Eco FWD,31006,"Accident check
+No issues reported",Personal,2.0,KS
+1373,2007,7994,Prius,101265,"Accident check
+No issues reported",Personal,2.0,NY
+1374,2015,22800,Prius Two,16612,"Accident check
+No issues reported",Personal,2.0,IL
+1375,2011,9995,Prius Four,127500,"Accident check
+1Accident reported",Personal,2.0,RI
+1376,2014,15995,Prius Two,89398,"Accident check
+No issues reported",Commercial,4.0,CA
+1377,2013,14988,Prius Four,93000,"Accident check
+1Accident reported",Personal,2.0,MO
+1378,2012,7995,Prius Four,176200,"Accident check
+1Accident reported",Personal,1.0,NJ
+1379,2010,9600,Prius,143740,"Accident check
+No issues reported",Personal,3.0,TX
+1380,2010,11849,Prius Three,107800,"Accident check
+2Accidents reported",Personal,1.0,IL
+1381,2016,21947,Prius Four FWD,74307,"Accident check
+1Accident reported",Personal,1.0,GA
+1383,2012,8998,Prius Four,186263,"Accident check
+No issues reported",Personal,1.0,NJ
+1384,2015,19989,Prius Two,65812,"Accident check
+No issues reported",Commercial,2.0,CA
+1385,2011,8495,Prius Two,186046,"Accident check
+No issues reported",Commercial,3.0,CA
+1386,2013,13998,Prius Three,94104,"Accident check
+2Accidents reported",Commercial,2.0,FL
+1387,2007,4673,Prius Touring FWD,217935,"Accident check
+No issues reported",Personal,2.0,VA
+1388,2010,9900,Prius,136992,"Accident check
+No issues reported",Personal,1.0,VA
+1390,2017,20990,Prius Two Eco FWD,65792,"Accident check
+No issues reported",Personal,1.0,HI
+1391,2013,12891,Prius Four,115431,"Accident check
+No issues reported",Personal,1.0,MA
+1392,2015,17000,Prius Persona Series,78000,"Accident check
+No issues reported",Personal,2.0,MI
+1393,2014,15800,Prius Two,81415,"Accident check
+No issues reported",Personal,1.0,TN
+1394,2013,14900,Prius Three,94912,"Accident check
+No issues reported",Personal,1.0,SC
+1395,2008,4495,Prius Touring FWD,216500,"Accident check
+No issues reported",Personal,2.0,NY
+1396,2013,9895,Prius Two,186604,"Accident check
+No issues reported",Personal,1.0,CA
+1397,2015,19000,Prius Four,74788,"Accident check
+No issues reported",Personal,3.0,AZ
+1398,2012,9999,Prius Five,160663,"Accident check
+1Accident reported",Personal,1.0,CA
+1399,2011,10995,Prius One,90394,"Accident check
+No issues reported",Personal,1.0,HI
+1400,2012,9995,Prius Three,149305,"Accident check
+No issues reported",Personal,2.0,NJ
+1401,2008,7500,Prius Touring FWD,121948,"Accident check
+No issues reported",Personal,1.0,RI
+1402,2007,8999,Prius Touring FWD,88684,"Accident check
+No issues reported",Personal,1.0,TN
+1403,2008,5900,Prius Touring FWD,171000,"Accident check
+No issues reported",Personal,4.0,MO
+1404,2016,23488,Prius Four FWD,65106,"Accident check
+No issues reported",Personal,2.0,CA
+1405,2010,10850,Prius Three,115782,"Accident check
+No issues reported",Personal,2.0,MA
+1406,2013,9699,Prius Four,161699,"Accident check
+1Accident reported",Personal,2.0,TX
+1407,2011,8998,Prius Four,146521,"Accident check
+1Accident reported",Personal,1.0,MA
+1408,2016,22848,Prius Four FWD,73381,"Accident check
+No issues reported",Commercial,2.0,TN
+1409,2011,10699,Prius,140586,"Accident check
+No issues reported",Personal,2.0,CA
+1410,2014,13495,Prius Three,120018,"Accident check
+1Accident reported",Personal,1.0,IN
+1411,2011,8499,Prius,178456,"Accident check
+4Accidents reported",Personal,4.0,CA
+1412,2012,13999,Prius Three,65536,"Accident check
+No issues reported",Personal,2.0,FL
+1413,2015,15995,Prius Two,106695,"Accident check
+No issues reported",Personal,1.0,OH
+1414,2018,25539,Prius Four FWD,32757,"Accident check
+No issues reported",Personal,1.0,FL
+1415,2021,30995,Prius 2020 Edition FWD,2744,"Accident check
+No issues reported",Personal,1.0,IL
+1416,2005,5999,Prius FWD,155000,"Accident check
+No issues reported",Personal,1.0,VA
+1417,2010,13595,Prius,72173,"Accident check
+No issues reported",Personal,1.0,TX
+1418,2007,7000,Prius Touring FWD,146002,"Accident check
+1Accident reported",Personal,1.0,VA
+1419,2009,7995,Prius Liftback FWD,160314,"Accident check
+No issues reported",Personal,1.0,CA
+1420,2008,7995,Prius Touring FWD,156623,"Accident check
+No issues reported",Personal,2.0,CA
+1421,2008,9225,Prius Touring FWD,75055,"Accident check
+No issues reported",Personal,1.0,AR
+1422,2008,6895,Prius Liftback FWD,158686,"Accident check
+No issues reported",Personal,2.0,VA
+1423,2011,8995,Prius One,168125,"Accident check
+1Accident reported",Personal,2.0,KS
+1424,2014,17450,Prius,71577,"Accident check
+1Accident reported",Personal,2.0,KS
+1425,2017,24888,Prius Two FWD,35942,"Accident check
+No issues reported",Personal,1.0,CA
+1426,2008,9995,Prius Touring FWD,82924,"Accident check
+No issues reported",Personal,2.0,CA
+1427,2014,18355,Prius Three,47745,"Accident check
+No issues reported",Personal,1.0,IN
+1428,2017,24000,Prius Four FWD,63513,"Accident check
+No issues reported",Personal,2.0,KS
+1429,2014,11999,Prius Four,149478,"Accident check
+No issues reported",Personal,3.0,AZ
+1430,2010,9995,Prius,125244,"Accident check
+No issues reported",Personal,2.0,UT
+1431,2010,12750,Prius,70530,"Accident check
+No issues reported",Personal,1.0,GA
+1432,2015,16500,Prius,94765,"Accident check
+No issues reported",Personal,2.0,ME
+1433,2015,20994,Prius Two,37135,"Accident check
+No issues reported",Personal,1.0,PA
+1434,2011,12253,Prius One,82749,"Accident check
+No issues reported",Personal,1.0,NC
+1435,2011,10991,Prius,123405,"Accident check
+No issues reported",Personal,1.0,TX
+1436,2008,7995,Prius Touring FWD,110876,"Accident check
+2Accidents reported",Personal,3.0,OH
+1437,2005,5995,Prius FWD,158748,"Accident check
+No issues reported",Personal,3.0,WI
+1438,2007,7381,Prius Touring FWD,149987,"Accident check
+No issues reported",Personal,2.0,MO
+1439,2008,6995,Prius,168981,"Accident check
+No issues reported",Personal,3.0,WA
+1440,2017,21499,Prius Three FWD,67513,"Accident check
+1Accident reported",Personal,1.0,CA
+1441,2012,14979,Prius Four,93107,"Accident check
+1Accident reported",Personal,1.0,WA
+1442,2016,24475,Prius,34651,"Accident check
+No issues reported",Personal,1.0,SD
+1444,2012,13995,Prius Five,97239,"Accident check
+No issues reported",Personal,2.0,OH
+1445,2012,11000,Prius Three,145496,"Accident check
+No issues reported",Personal,2.0,NV
+1446,2018,23995,Prius Two FWD,84454,"Accident check
+No issues reported",Personal,1.0,CA
+1447,2016,18750,Prius Four Touring FWD,88647,"Accident check
+1Accident reported",Personal,2.0,CA
+1448,2008,9991,Prius Touring FWD,105927,"Accident check
+No issues reported",Commercial,1.0,CA
+1449,2015,15999,Prius Two,127971,"Accident check
+No issues reported",Personal,2.0,WA
+1450,2018,21350,Prius Four FWD,87603,"Accident check
+1Accident reported",Personal,1.0,FL
+1451,2013,8995,Prius,171945,"Accident check
+No issues reported",Personal,2.0,PA
+1452,2007,8300,Prius FWD,126700,"Accident check
+2Accidents reported",Commercial,2.0,WA
+1453,2018,24000,Prius Four FWD,71278,"Accident check
+No issues reported",Personal,1.0,WV
+1454,2005,5750,Prius FWD,191655,"Accident check
+No issues reported",Personal,2.0,CO
+1455,2012,12998,Prius Two,96838,"Accident check
+1Accident reported",Personal,2.0,OH
+1456,2013,11995,Prius Two,120606,"Accident check
+No issues reported",Personal,1.0,PA
+1457,2018,25000,Prius Four FWD,55092,"Accident check
+No issues reported",Personal,3.0,LA
+1458,2016,18999,Prius Two FWD,102203,"Accident check
+No issues reported",Personal,1.0,CA
+1459,2010,12000,Prius Three,101000,"Accident check
+No issues reported",Personal,1.0,CA
+1460,2013,10992,Prius Two,123134,"Accident check
+1Accident reported",Personal,3.0,MA
+1461,2011,10960,Prius,133499,"Accident check
+No issues reported",Personal,2.0,IN
+1462,2014,14997,Prius Two,107279,"Accident check
+No issues reported",Commercial,2.0,CO
+1463,2011,9945,Prius One,133138,"Accident check
+No issues reported",Personal,2.0,NC
+1464,2010,7450,Prius,177746,"Accident check
+No issues reported",Personal,1.0,OH
+1465,2017,25998,Prius Two FWD,29153,"Accident check
+No issues reported",Personal,1.0,CA
+1466,2014,14999,Prius Two,124661,"Accident check
+No issues reported",Personal,1.0,WA
+1467,2010,8995,Prius Two,147684,"Accident check
+No issues reported",Personal,1.0,TX
+1468,2007,5500,Prius FWD,182500,"Accident check
+1Accident reported",Personal,3.0,NC
+1469,2014,14958,Prius Two,91919,"Accident check
+No issues reported",Commercial,1.0,FL
+1470,2009,6988,Prius Touring FWD,163092,"Accident check
+No issues reported",Personal,3.0,VA
+1471,2011,10944,Prius Three,113215,"Accident check
+1Accident reported",Personal,1.0,TX
+1472,2011,12450,Prius Five,128385,"Accident check
+No issues reported",Personal,1.0,CA
+1473,2015,18755,Prius Two,64910,"Accident check
+No issues reported",Personal,2.0,MA
+1474,2007,6800,Prius Touring FWD,174549,"Accident check
+No issues reported",Personal,1.0,MN
+1475,2009,6400,Prius Liftback FWD,177000,"Accident check
+No issues reported",Personal,2.0,GA
+1476,2014,12995,Prius One,136501,"Accident check
+No issues reported",Personal,3.0,IN
+1477,2008,7995,Prius Touring FWD,167039,"Accident check
+No issues reported",Personal,2.0,NM
+1478,2011,8995,Prius Five,179600,"Accident check
+No issues reported",Personal,2.0,CA
+1479,2011,8995,Prius Two,149650,"Accident check
+No issues reported",Personal,2.0,VA
+1480,2021,36688,Prius XLE AWD-e,9220,"Accident check
+No issues reported",Personal,1.0,CA
+1482,2014,18500,Prius Three,47008,"Accident check
+No issues reported",Personal,1.0,CO
+1483,2010,8632,Prius,151807,"Accident check
+No issues reported",Personal,2.0,FL
+1484,2018,25901,Prius Two FWD,48191,"Accident check
+No issues reported",Personal,1.0,CA
+1486,2016,19222,Prius Two FWD,89969,"Accident check
+No issues reported",Personal,1.0,CA
+1487,2018,18184,Prius Four FWD,124125,"Accident check
+No issues reported",Personal,1.0,CT
+1488,2016,19849,Prius Two FWD,80189,"Accident check
+No issues reported",Personal,2.0,CA
+1489,2013,14995,Prius Two,71607,"Accident check
+No issues reported",Personal,1.0,NJ
+1490,2016,21998,Prius Three Touring FWD,80273,"Accident check
+1Accident reported",Personal,3.0,CA
+1491,2010,8995,Prius,184147,"Accident check
+1Accident reported",Personal,2.0,IA
+1492,2011,11555,Prius One,103375,"Accident check
+No issues reported",Personal,3.0,CA
+1493,2016,16995,Prius Two FWD,129346,"Accident check
+No issues reported",Personal,1.0,CA
+1494,2019,29199,Prius Limited FWD,15542,"Accident check
+No issues reported",Personal,1.0,FL
+1495,2013,13890,Prius Two,104621,"Accident check
+No issues reported",Personal,1.0,CA
+1497,2005,6299,Prius FWD,134016,"Accident check
+1Accident reported",Personal,2.0,OH
+1498,2013,13082,Prius Five,125645,"Accident check
+No issues reported",Personal,3.0,FL
+1499,2007,8981,Prius Touring FWD,94388,"Accident check
+No issues reported",Personal,2.0,MD
+1500,2011,11479,Prius,129123,"Accident check
+No issues reported",Personal,3.0,IN
+1501,2014,16500,Prius Two,78365,"Accident check
+1Accident reported",Personal,2.0,IL
+1503,2005,6500,Prius FWD,171483,"Accident check
+No issues reported",Personal,1.0,OR
+1504,2017,22950,Prius Two FWD,71731,"Accident check
+No issues reported",Personal,1.0,MN
+1505,2007,10795,Prius Touring FWD,72905,"Accident check
+No issues reported",Personal,1.0,CA
+1507,2010,8995,Prius Four,169582,"Accident check
+No issues reported",Personal,1.0,VA
+1508,2006,4999,Prius FWD,216389,"Accident check
+1Accident reported",Commercial,6.0,TN
+1509,2009,6977,Prius Touring FWD,186942,"Accident check
+2Accidents reported",Personal,3.0,CA
+1510,2010,9446,Prius,131735,"Accident check
+1Accident reported",Personal,6.0,IL
+1511,2005,4899,Prius FWD,167755,"Accident check
+1Accident reported",Personal,1.0,CT
+1512,2014,12995,Prius Two,121781,"Accident check
+2Accidents reported",Personal,2.0,NY
+1513,2019,25252,Prius LE FWD,56117,"Accident check
+No issues reported",Commercial,1.0,OK
+1514,2014,15500,Prius Four,96527,"Accident check
+No issues reported",Personal,2.0,IN
+1515,2014,17950,Prius Two,59105,"Accident check
+No issues reported",Personal,1.0,IL
+1518,2009,9950,Prius Touring FWD,114167,"Accident check
+No issues reported",Personal,1.0,CA
+1519,2018,28500,Prius Three FWD,12554,"Accident check
+No issues reported",Personal,1.0,NJ
+1520,2012,8888,Prius Three,161619,"Accident check
+No issues reported",Personal,3.0,GA
+1521,2018,20400,Prius Two FWD,79500,"Accident check
+No issues reported",Personal,2.0,OH
+1522,2016,17995,Prius Two FWD,96659,"Accident check
+No issues reported",Personal,2.0,TX
+1523,2018,26999,Prius Three FWD,51325,"Accident check
+No issues reported",Personal,1.0,MI
+1524,2017,21995,Prius Two Eco FWD,70360,"Accident check
+No issues reported",Personal,1.0,CA
+1525,2017,19328,Prius Two Eco FWD,90234,"Accident check
+No issues reported",Personal,1.0,AZ
+1526,2020,25396,Prius LE FWD,60251,"Accident check
+No issues reported",Commercial,1.0,NC
+1527,2012,9494,Prius Three,163248,"Accident check
+No issues reported",Personal,1.0,VA
+1529,2012,12506,Prius One,106209,"Accident check
+1Accident reported",Personal,2.0,MO
+1530,2008,7500,Prius Touring FWD,173624,"Accident check
+No issues reported",Personal,2.0,UT
+1531,2010,10850,Prius Three,117435,"Accident check
+No issues reported",Personal,2.0,MA
+1533,2007,4995,Prius,208257,"Accident check
+No issues reported",Personal,4.0,NH
+1534,2016,25788,Prius Four FWD,40656,"Accident check
+No issues reported",Personal,2.0,CA
+1535,2010,9998,Prius,123173,"Accident check
+No issues reported",Personal,1.0,VA
+1536,2014,11500,Prius,145805,"Accident check
+1Accident reported",Personal,1.0,FL
+1537,2017,26455,Prius Four Touring FWD,43627,"Accident check
+No issues reported",Personal,2.0,TX
+1538,2010,11900,Prius,76496,"Accident check
+No issues reported",Personal,2.0,FL
+1539,2011,11500,Prius Two,114966,"Accident check
+1Accident reported",Personal,3.0,NV
+1540,2015,10995,Prius Three,160995,"Accident check
+No issues reported",Personal,2.0,NJ
+1541,2012,11899,Prius Three,102270,"Accident check
+1Accident reported",Personal,1.0,CT
+1542,2017,22995,Prius Four FWD,63442,"Accident check
+No issues reported",Personal,2.0,OH
+1543,2015,19554,Prius Four,52803,"Accident check
+1Accident reported",Personal,4.0,NY
+1544,2018,27966,Prius Four Touring FWD,39675,"Accident check
+No issues reported",Personal,1.0,IL
+1545,2011,6995,Prius Five,161656,"Accident check
+1Accident reported",Personal,5.0,VA
+1546,2012,9795,Prius Three,145813,"Accident check
+1Accident reported",Personal,2.0,OH
