@@ -16,7 +16,7 @@ class prius_model_predict:
         from sklearn.preprocessing import StandardScaler, OneHotEncoder
         from sklearn.linear_model import LinearRegression
         from sklearn.model_selection import train_test_split
-        df = pd.read_csv('/Users/serhat/Desktop/data.csv')
+        df = pd.read_csv('data.csv')
         df.rename(columns={"Unnamed: 0": "#"},inplace=True)
         df.set_index('#',inplace=True)
         X = df.iloc[:, [True, False, True, True, True, True, True, True,]]
