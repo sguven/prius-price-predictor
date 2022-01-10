@@ -86,7 +86,7 @@ else:
     result = 'No price'
     
 
-st.text(result)
+st.text(round(result[0][0],2) + 'USD')
 
 
     
