@@ -81,12 +81,12 @@ df_input = pd.DataFrame(data=d)
 
 
 if calculate:
-    result = prius_model_predict.price_predict(df_input)
+    result = str(round(prius_model_predict.price_predict(df_input)[0][0],2)) + ' USD'
 else:
     result = 'No price'
     
 
-st.text(str(round(result[0][0],2)) + ' USD')
+st.text(result)
 
 
     
