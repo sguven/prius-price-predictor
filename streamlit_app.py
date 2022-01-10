@@ -79,6 +79,7 @@ d = {'Years': [int(year)], 'Model': [model], 'Mileage':[int(mileage)],
 
 df_input = pd.DataFrame(data=d)
 
+calculate = True
 
 if calculate:
     result = str(round(prius_model_predict.price_predict(df_input)[0][0],2)) + ' USD'
