@@ -60,16 +60,10 @@ condition = ('Accident check\nNo issues reported',
        'Accident check\n2Accidents reported',
        'Accident check\n4Accidents reported')
 
-usage_type = ('Commercial', 'Personal')
-
-html_string = "<p style="text-align: center;"><strong>WELCOME</strong></p>
-<p><em>Please enter the features of the vehicle you want to calculate the price of.</em></p>
-<p><br></p>"
-
-st.markdown(html_string, unsafe_allow_html=True)
-
+usage_type = ('Personal', 'Commercial')
 
 st.text('Welcome')
+st.text('Please enter the features of the vehicle you want to calculate the price of.')
 
 model = st.selectbox('Model', model)
 year = st.slider('Year', 2002, 2022)
