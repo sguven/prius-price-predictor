@@ -70,7 +70,7 @@ year = st.slider('Year', 2002, 2022)
 mileage = st.slider('Mileage', 0, 275000)
 owners = st.slider('Number of Prev. Owners', 0 , 10)
 location = st.selectbox('Location', location)
-usage_type = st.selectbox('usage_type', usage_type)
+usage_type = st.selectbox('Usage Type', usage_type)
 condition = st.selectbox(('Condition'), condition)
 calculate = st.button('Calculate the Price')
 
