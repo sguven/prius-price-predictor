@@ -37,7 +37,7 @@ import pandas as pd
 
 
 
-model =('Prius Two FWD', 'Prius Three', 'Prius Two', 'Prius',
+model =('Prius', 'Prius Two FWD', 'Prius Three', 'Prius Two', 
        'Prius Four FWD', 'Prius XLE FWD', 'Prius LE FWD',
        'Prius Persona Series', 'Prius Limited FWD', 'Prius Four',
        'Prius XLE AWD-e', 'Prius One FWD', 'Prius One', 'Prius Five',
@@ -62,6 +62,14 @@ condition = ('Accident check\nNo issues reported',
 
 usage_type = ('Commercial', 'Personal')
 
+html_string = "<p style="text-align: center;"><strong>WELCOME</strong></p>
+<p><em>Please enter the features of the vehicle you want to calculate the price of.</em></p>
+<p><br></p>"
+
+st.markdown(html_string, unsafe_allow_html=True)
+
+
+st.text('Welcome')
 
 model = st.selectbox('Model', model)
 year = st.slider('Year', 2002, 2022)
@@ -76,7 +84,6 @@ d = {'Years': [int(year)], 'Model': [model], 'Mileage':[int(mileage)],
      'Condition': [condition],'Usage Type': [usage_type], 
      'Owner#': [int(owners)], 'Location': [location]}
 
-
 df_input = pd.DataFrame(data=d)
 
 calculate = True
@@ -84,7 +91,7 @@ calculate = True
 if calculate:
     result = str(round(prius_model_predict.price_predict(df_input)[0][0],2)) + ' USD'
 else:
-    result = 'No price'
+    result = 'No Price'
     
 
 st.text(result)
