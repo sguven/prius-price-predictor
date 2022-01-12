@@ -83,7 +83,10 @@ df_input = pd.DataFrame(data=d)
 calculate = True
 
 if calculate:
-    result = str(round(prius_model_predict.price_predict(df_input)[0][0],2)) + ' USD'
+    if round(prius_model_predict.price_predict(df_input)[0][0],2) > 0:
+        result = str(round(prius_model_predict.price_predict(df_input)[0][0],2)) + ' USD'
+    else:
+        result = 'No Price'        
 else:
     result = 'No Price'
     
