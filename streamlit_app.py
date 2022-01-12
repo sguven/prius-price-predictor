@@ -86,9 +86,9 @@ if calculate:
     if round(prius_model_predict.price_predict(df_input)[0][0],2) > 0:
         result = str(round(prius_model_predict.price_predict(df_input)[0][0],2)) + ' USD'
     else:
-        result = 'No Price'        
+        result = 'No Enough Data to Calculate the Price. Sorry :('        
 else:
-    result = 'No Price'
+    result = 'No Enough Data to Calculate the Price. Sorry :('
     
 
 st.text(result)
