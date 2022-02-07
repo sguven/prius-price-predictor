@@ -57,8 +57,7 @@ condition = ('Accident check\nNo issues reported',
        'Accident check\n1Accident reported',
        'Accident check\nFrame damage reported',
        'Accident check\n3Accidents reported',
-       'Accident check\n2Accidents reported',
-       'Accident check\n4Accidents reported')
+       'Accident check\n2Accidents reported',)
 
 usage_type = ('Personal', 'Commercial')
 
