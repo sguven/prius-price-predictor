@@ -16,8 +16,12 @@ from selenium.webdriver.support.select import Select
 import numpy as np
 import pandas as pd
 
-#DEFINING FUNCTION to ELIMINATE POPUPS
 
+
+    
+    
+#DEFINING FUNCTION to ELIMINATE POPUPS
+'''
 def Clearpopups(): 
     try:
         driver.find_element_by_xpath('/html/body/div[10]/div/button/svg').click()
@@ -26,12 +30,22 @@ def Clearpopups():
             driver.find_element_by_xpath('/html/body/div[10]/div/div[2]/button[1]').click()
         except:
             pass
-
+'''
 
 #OPENING WEBDRIVER IN SERVICE MODE
 
-s=Service('/usr/local/bin/chromedriver')
-driver = webdriver.Chrome(service=s)
+#s=Service('/usr/local/bin/chromedriver')
+#driver = webdriver.Chrome(service=s)
+#driver.get('https://cargurus.com')
+#WebDriverWait(driver, 2)
+
+
+
+chrome_options = webdriver.ChromeOptions()
+chrome_options.add_argument('--headless')
+chrome_options.add_argument('--no-sandbox')
+chrome_options.add_argument('--disable-dev-shm-usage')
+driver = webdriver.Chrome('chromedriver',chrome_options=chrome_options)
 driver.get('https://cargurus.com')
 WebDriverWait(driver, 2)
 Clearpopups()
@@ -139,3 +153,4 @@ df_main['Owner#'] = df_main['Owner#'].replace({'One owner' : 1,'2 Owners':2 ,
                                                '5 Owners':5,'6 Owners':6,
                                                '8 Owners':8})
 
+df_main.to_csv('csv_new.csv)
