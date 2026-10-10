@@ -1,98 +1,61 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan 10 13:48:40 2022
+"""Streamlit app: estimate a used Toyota Prius price from its features."""
+from pathlib import Path
 
-@author: serhat
-"""
-
-class prius_model_predict:    
-
-    def price_predict(example_df):
-        import pandas as pd
-        from sklearn.compose import ColumnTransformer
-        from sklearn.pipeline import Pipeline
-        from sklearn.impute import SimpleImputer
-        from sklearn.preprocessing import StandardScaler, OneHotEncoder
-        from sklearn.linear_model import LinearRegression
-        from sklearn.model_selection import train_test_split
-        df = pd.read_csv('data.csv')
-        df.rename(columns={"Unnamed: 0": "#"},inplace=True)
-        df.set_index('#',inplace=True)
-        X = df.iloc[:, [True, False, True, True, True, True, True, True,]]
-        y = df.iloc[:,1:2]
-        numeric_features = ["Years", "Mileage","Owner#"]
-        numeric_transformer = Pipeline(steps=[("imputer", SimpleImputer(strategy="median")), ("scaler", StandardScaler())])
-        categorical_features = ["Model", "Condition", "Usage Type" ,"Location"]
-        categorical_transformer = OneHotEncoder(handle_unknown="ignore")    
-        preprocessor = ColumnTransformer(transformers=[("num", numeric_transformer, numeric_features),("cat", categorical_transformer, categorical_features),])    
-        clf = Pipeline(steps=[("preprocessor", preprocessor), ("classifier", LinearRegression())])    
-        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)    
-        clf.fit(X_train, y_train)
-        return clf.predict(example_df)
-        
-
-import streamlit as st
 import pandas as pd
+import streamlit as st
+from sklearn.compose import ColumnTransformer
+from sklearn.impute import SimpleImputer
+from sklearn.linear_model import LinearRegression
+from sklearn.pipeline import Pipeline
+from sklearn.preprocessing import OneHotEncoder, StandardScaler
+
+DATA = Path(__file__).parent / "data" / "prius_listings.csv"
+NUMERIC = ["Years", "Mileage", "Owner#"]
+CATEGORICAL = ["Model", "Condition", "Usage Type", "Location"]
 
 
+@st.cache_data
+def load_data() -> pd.DataFrame:
+    return pd.read_csv(DATA, index_col=0)
 
-model =('Prius', 'Prius Two FWD', 'Prius Three', 'Prius Two', 
-       'Prius Four FWD', 'Prius XLE FWD', 'Prius LE FWD',
-       'Prius Persona Series', 'Prius Limited FWD', 'Prius Four',
-       'Prius XLE AWD-e', 'Prius One FWD', 'Prius One', 'Prius Five',
-       'Prius Touring FWD', 'Prius Four Touring FWD',
-       'Prius 2020 Edition FWD', 'Prius L Eco FWD', 'Prius Three FWD',
-       'Prius FWD', 'Prius Three Touring FWD', 'Prius LE AWD-e',
-       'Prius Two Eco FWD', 'Prius Liftback FWD',
-       'Prius Persona Series SE')
 
-location = ('CA', 'HI', 'FL', 'ND', 'MN', 'KY', 'OR', 'PA', 'CO', 'UT', 'TN',
-       'TX', 'OH', 'VA', 'NM', 'WA', 'NV', 'IA', 'IL', 'NC', 'GA', 'MA',
-       'LA', 'AZ', 'IN', 'MS', 'MT', 'NY', 'CT', 'OK', 'NJ', 'NE',
-       'AL', 'SC', 'MD', 'MI', 'KS', 'MO', 'WI', 'ID', 'VT', 'NH', 'RI',
-       'WV', 'AR', 'WY', 'ME', 'SD')
+@st.cache_resource
+def train_model(df: pd.DataFrame) -> Pipeline:
+    preprocessor = ColumnTransformer(
+        [
+            ("num", Pipeline([("imputer", SimpleImputer(strategy="median")), ("scaler", StandardScaler())]), NUMERIC),
+            ("cat", OneHotEncoder(handle_unknown="ignore"), CATEGORICAL),
+        ]
+    )
+    model = Pipeline([("preprocessor", preprocessor), ("regressor", LinearRegression())])
+    return model.fit(df[NUMERIC + CATEGORICAL], df["Price"])
 
-condition = ('Accident check\nNo issues reported',
-       'Accident check\n1Accident reported',
-       'Accident check\nFrame damage reported',
-       'Accident check\n3Accidents reported',
-       'Accident check\n2Accidents reported',)
 
-usage_type = ('Personal', 'Commercial')
+df = load_data()
+model = train_model(df)
 
-st.text('Welcome')
-st.text('Please enter the features of the vehicle you want to calculate the price of.')
+st.title("Toyota Prius Price Estimator")
+st.caption(f"Linear regression trained on {len(df):,} used Prius listings scraped from CarGurus.")
 
-model = st.selectbox('Model', model)
-year = st.slider('Year', 2002, 2022)
-mileage = st.slider('Mileage', 0, 275000)
-owners = st.slider('Number of Prev. Owners', 0 , 10)
-location = st.selectbox('Location', location)
-usage_type = st.selectbox('Usage Type', usage_type)
-condition = st.selectbox(('Condition'), condition)
-calculate = st.button('Calculate the Price')
+col1, col2 = st.columns(2)
+with col1:
+    trim = st.selectbox("Model", sorted(df["Model"].unique()))
+    year = st.slider("Year", int(df["Years"].min()), int(df["Years"].max()), 2016)
+    mileage = st.slider("Mileage", 0, 275_000, 60_000, step=1_000)
+    owners = st.slider("Previous owners", 0, 10, 1)
+with col2:
+    state = st.selectbox("State", sorted(df["Location"].unique()))
+    usage = st.selectbox("Usage type", sorted(df["Usage Type"].unique()))
+    conditions = sorted(df["Condition"].unique())
+    condition = st.selectbox("Accident history", conditions, format_func=lambda c: c.replace("Accident check\n", ""))
 
-d = {'Years': [int(year)], 'Model': [model], 'Mileage':[int(mileage)],
-     'Condition': [condition],'Usage Type': [usage_type], 
-     'Owner#': [int(owners)], 'Location': [location]}
-
-df_input = pd.DataFrame(data=d)
-
-calculate = True
-
-if calculate:
-    if round(prius_model_predict.price_predict(df_input)[0][0],2) > 0:
-        result = str(round(prius_model_predict.price_predict(df_input)[0][0],2)) + ' USD'
+if st.button("Estimate price", type="primary"):
+    row = pd.DataFrame(
+        {"Years": [year], "Model": [trim], "Mileage": [mileage], "Condition": [condition],
+         "Usage Type": [usage], "Owner#": [owners], "Location": [state]}
+    )
+    price = float(model.predict(row)[0])
+    if price > 0:
+        st.metric("Estimated price", f"${price:,.0f}")
     else:
-        result = 'No Enough Data to Calculate the Price. Sorry :('        
-else:
-    result = 'No Enough Data to Calculate the Price. Sorry :('
-    
-
-st.text(result)
-
-
-    
-
-
+        st.warning("Not enough comparable listings to estimate this combination.")
